@@ -19,29 +19,40 @@ driver = webdriver.Chrome(service=service)
 urls = ["https://www.instagram.com/mdgspace/",
         "https://www.instagram.com/sdslabs/"]
 
-# Opening the main.md file
-main = open("main.md", "a", encoding='utf-8')
+# Opening the insta_post.md file
+insta_post = open("insta_post.md", "a", encoding='utf-8')
 
 
-# Function to load more post without logged in user
-def loadMorePostWithoutLogin(driver, number_of_more_loads):
-    i = 1
-    n = number_of_more_loads
-    while i <= n:
-        try:
-            WebDriverWait(driver, timeout=15).until(
-                lambda d: d.find_element(By.CSS_SELECTOR, "._aacl._aaco._aacw._aad3._aad6._aadb"))
-            button = driver.find_element(
-                by=By.CSS_SELECTOR, value="._aacl._aaco._aacw._aad3._aad6._aadb")
-            driver.execute_script("arguments[0].click();", button)
-            time.sleep(10)
-            i += 1
-        except:
-            break
+# show more posts without logged in user
+def show_more_posts_without_login(driver):
+    try:
+        WebDriverWait(driver, timeout=15).until(
+            lambda d: d.find_element(By.CSS_SELECTOR, "._aacl._aaco._aacw._aad3._aad6._aadb"))
+        button = driver.find_element(
+            by=By.CSS_SELECTOR, value="._aacl._aaco._aacw._aad3._aad6._aadb")
+        driver.execute_script("arguments[0].click();", button)
+        time.sleep(10)
+    except:
+        return
 
 
-# Function to login to instagram
+# Load Posts without logged in user
+def load_posts_without_login(driver, url, show_more_post):
+    driver.get(url)
+    if show_more_post:
+        show_more_posts_without_login(driver)
+    WebDriverWait(driver, timeout=15).until(
+        lambda d: d.find_element(By.CSS_SELECTOR, "._aagv img"))
+    images = driver.find_elements(by=By.CSS_SELECTOR, value="._aagv img")
+    for index, image in enumerate(images):
+        caption = image.get_attribute("alt")
+        src = image.get_attribute("src")
+        insta_post.write(f"{index+1}. `src`: {src} and `caption`: {caption}\n")
+
+
+# Login to instagram
 def login(driver, username, password):
+    driver.get("https://instagram.com")
     WebDriverWait(driver, timeout=15).until(
         lambda d: d.find_element(By.CSS_SELECTOR, "._aa4b._add6._ac4d"))
     inputs = driver.find_elements(
@@ -56,9 +67,12 @@ def login(driver, username, password):
     time.sleep(10)
 
 
-# Function to load more post with logged in user
-def loadMorePostWithLogin(driver):
-    SCROLL_PAUSE_TIME = 7
+status_logged_in = False
+
+
+# show more posts with logged in user
+def show_more_posts_with_login(driver):
+    SCROLL_PAUSE_TIME = 5
     last_height = driver.execute_script("return document.body.scrollHeight")
     while True:
         driver.execute_script(
@@ -70,25 +84,38 @@ def loadMorePostWithLogin(driver):
         last_height = new_height
 
 
-# Without login upto 30 posts can be scrapped
-# driver.get("https://instagram.com")
-# login(driver, USERNAME, PASSWORD)
-
-
-for url in urls:
-    username_from_url = url.split(".com/")[1].replace("/", "")
+# Load posts with logged in user
+def load_posts_with_login(driver, url):
+    global status_logged_in
+    if not status_logged_in:
+        login(driver, USERNAME, PASSWORD)
+        status_logged_in = True
     driver.get(url)
-    loadMorePostWithoutLogin(driver, 2)
-    # loadMorePostWithLogin(driver)
+    show_more_posts_with_login(driver)
     WebDriverWait(driver, timeout=15).until(
         lambda d: d.find_element(By.CSS_SELECTOR, "._aagv img"))
     images = driver.find_elements(by=By.CSS_SELECTOR, value="._aagv img")
-    main.write(f"# {username_from_url}\n")
     for index, image in enumerate(images):
-        caption = image.get_attribute("alt")
+        driver.execute_script("arguments[0].click();", image)
+        WebDriverWait(driver, timeout=5).until(
+            lambda d: d.find_element(By.CSS_SELECTOR, "._aacl._aaco._aacu._aacx._aad7._aade"))
+        caption = (driver.find_element(
+            by=By.CSS_SELECTOR, value="._aacl._aaco._aacu._aacx._aad7._aade")).text
         src = image.get_attribute("src")
-        main.write(f"{index+1}. `src`: {src} and `caption`: {caption}\n")
-    main.write("\n\n\n")
+        close_btn = driver.find_element(
+            by=By.CSS_SELECTOR, value="svg.x1lliihq.x1n2onr6")
+        close_btn.click()
+        insta_post.write(f"{index+1}. `src`: {src} and `caption`: {caption}\n")
+
+
+# Scrape the different accounts
+for url in urls:
+    username_from_url = url.split(".com/")[1].replace("/", "")
+    insta_post.write(f"# {username_from_url}\n")
+    load_posts_without_login(driver, url, True)
+    # load_posts_with_login(driver, url)
+    insta_post.write("\n\n\n")
+
 
 driver.quit()
-main.close()
+insta_post.close()

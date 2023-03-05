@@ -1,23 +1,23 @@
 # mdgspace
-1. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t39.30808-6/331569446_1239664376973616_8472519154408242235_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=Ykk_r4mDm3cAX-RN1Bq&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_AfCio2Ehj95SiJRVqSpQbAgoBgoclqFfNyg76z7eTI1XZA&oe=6408B5DB&_nc_sid=8fd12b and `caption`: We couldn't keep you waiting any longer! We present to you the amazing developers and designers selected for the Season of Code and Design 🎉 Heartiest congratulations to all! Those who couldn't make it, don't be disheartened, we got a lot of really great entries and it was really hard to select a few. No worries, we still have a lot coming your way!
-2. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/329742259_2379792758869852_1986921789875900524_n.jpg?stp=c219.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=GCxbrKXeQh0AX-F9Pbf&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAPxnuDDjoHIcRqaMJiu81SXFSDklbsTn_XMhgaw4uNTg&oe=6405BB05&_nc_sid=8fd12b and `caption`: Attention all designers! 🎨 Get ready to delve into the world of design and discover the magic of user-centered design process ✨
+1. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t39.30808-6/331569446_1239664376973616_8472519154408242235_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=Ykk_r4mDm3cAX_bklgz&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_AfCkkn_1UkK6-zpDYIQdqVG25s7hOoDuDWYqgZv50JrlIQ&oe=6408B5DB&_nc_sid=8fd12b and `caption`: We couldn't keep you waiting any longer! We present to you the amazing developers and designers selected for the Season of Code and Design 🎉 Heartiest congratulations to all! Those who couldn't make it, don't be disheartened, we got a lot of really great entries and it was really hard to select a few. No worries, we still have a lot coming your way!
+2. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/329742259_2379792758869852_1986921789875900524_n.jpg?stp=c219.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=GCxbrKXeQh0AX_UZdtw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBZTf2lB-1ZbQv8k0zj1CLXtEOIUfy1wTNC0u_nXHULAw&oe=640663C5&_nc_sid=8fd12b and `caption`: Attention all designers! 🎨 Get ready to delve into the world of design and discover the magic of user-centered design process ✨
 
 Join us for an exciting workshop on the 12th of February at 6:30 PM where we'll be exploring the ins and outs of what it means to design. Topics covered include ideation, prototyping, interactive research, and design psychology 🎯
 
 This workshop is a must-attend for anyone looking to improve their design skills and take their creative thinking to the next level. 🚀
 
 Mark the date and keep an eye on our Instagram handle for the venue 📍 update. Don't miss out on this opportunity to expand your design knowledge and network with like-minded individuals. See you there!
-3. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/327820401_178870404783316_4333223418707549316_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=3144VE5P21MAX-DNMfJ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDIJ1Rw9qhZ_m9Uc-3otVc9uoquU2DGCj0LCEaJsc_iHw&oe=6408A4C9&_nc_sid=8fd12b and `caption`: Calling all tech wizards and design masterminds! MDG Space's Season of Code & Design offers a unique opportunity for you to work on real-world problems, learn from the best in the business, and turn your ideas into a reality.
+3. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/327820401_178870404783316_4333223418707549316_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=3144VE5P21MAX-BpPb-&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBLLfaf9BycDgsgeX8v5dtHBnf2rqbhKrpxMJUrdBc7Hw&oe=6408A4C9&_nc_sid=8fd12b and `caption`: Calling all tech wizards and design masterminds! MDG Space's Season of Code & Design offers a unique opportunity for you to work on real-world problems, learn from the best in the business, and turn your ideas into a reality.
 
 This program is open to both first and second yearites, and has two tracks: Development (SoC) and Design (SoD). Check out the links in our bio to view the problem statements and submit your proposal.
 
 Don't let a lack of experience hold you back – you'll be mentored throughout by past participants in prestigious programs like GSoC, MLH, and LFX. (Additionally, developers can also participate in teams if a project seems challenging.)
 
 And don't forget, being part of this program could be your ticket to direct interview for MDG Space recruitments for freshers.
-4. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/325492799_140203662228280_4776626546557951419_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=02OGHB02faIAX_1O1R8&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDWmAq79w8hLho-xzjWcIFkHxbPbl99hfcz7FVYO4hM5w&oe=6408C037&_nc_sid=8fd12b and `caption`: "Hey everyone, MDG Week is finally here! Get ready to dive into the exciting world of development. Our lecture series is jam-packed with information on the latest and greatest technologies that will give you the skills to build the future.
+4. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/325492799_140203662228280_4776626546557951419_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=02OGHB02faIAX8JfdkP&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCt6388VUllBJ6uEAAeIwT5w7r-ko3cdUpZmDLJ3um8dg&oe=6408C037&_nc_sid=8fd12b and `caption`: "Hey everyone, MDG Week is finally here! Get ready to dive into the exciting world of development. Our lecture series is jam-packed with information on the latest and greatest technologies that will give you the skills to build the future.
 
 During the week, we'll be covering everything from Software Development to hot topics like Django, Flutter, and React. Not only will you learn some awesome new skills, but you'll also be prepping yourself for those MDG recruitments. Don't miss out on this opportunity to learn from some amazing people and build some cool stuff!"
-5. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t39.30808-6/317384018_506181418205558_1402814269656160980_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=102&_nc_ohc=UiKBdoiZAK4AX8Obrj2&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_AfC-Ib6vh8eUIrPf5a-P0aBaHxa-6SulgWDPcn3CnIFoGA&oe=64087AA6&_nc_sid=8fd12b and `caption`: Hi everyone! Hope you had a good ETE period 😄
+5. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t39.30808-6/317384018_506181418205558_1402814269656160980_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=102&_nc_ohc=UiKBdoiZAK4AX83g-OM&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_AfBw3BYEiRMOjEcfzhmVkrLlJX18rQ9yLkwi8BaqTZPT5Q&oe=640A74E6&_nc_sid=8fd12b and `caption`: Hi everyone! Hope you had a good ETE period 😄
 
 Now, to change the pace, our seniors at MDG Space are here to share some Dos and Don'ts of the Open Source world. They have tons of insight into and experience with Open Source programs like GSoC, Outreachy, MLH and LFX, and memories both sweet and sour.
 
@@ -33,7 +33,7 @@ See ya there!!
 .
 .
 #opensource #gsoc #googlesummerofcode #mdgspace #mlh #mlhfellowship #majorleaguehacking #lfx #thelinuxfundation #outreachy #foss #opensourceprograms
-6. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/316347224_468688675361588_8929740625168800139_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=qmZLNPc2MU4AX-O_CFJ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCkcNY3opQAeFC46oHI21fC2HOTBRuxo3KGKdh8ycm8hA&oe=640632DB&_nc_sid=8fd12b and `caption`: Sup folks!!
+6. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/316347224_468688675361588_8929740625168800139_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=qmZLNPc2MU4AX8EmJPq&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDkfyygLlgTLGbVkRG5C9DAfkkqYCJhOQHu2MlpvVPi0Q&oe=640632DB&_nc_sid=8fd12b and `caption`: Sup folks!!
 
 Here's the anticipated launch we announced in our Intro Talk- our latest and updated version of Codephile!
 
@@ -42,7 +42,7 @@ Codephile is a social networking application for competitive coders. With Codeph
 Find it on Playstore( link in bio)
 
 Happy Coding (...and stalking)
-7. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/315728524_142555165219063_6530443328332331360_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=lzCTiwM1zlkAX-GavVT&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCp_Nw3iArKaIPYA6yYS1e8eopAD9aDCxCzctwlukRhjQ&oe=640A1066&_nc_sid=8fd12b and `caption`: Hi Freshers!
+7. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/315728524_142555165219063_6530443328332331360_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=lzCTiwM1zlkAX8sElPd&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBTCnisc0W9ir9Oadm7NtagMfaUCLSHf0SRZISrf0zOrg&oe=640A1066&_nc_sid=8fd12b and `caption`: Hi Freshers!
 
 We're holding our Intro Talk this Sunday (20th November), 11AM at the MAC Audi.
 Come meet us and find out more about our shenanigans🌻💫
@@ -51,20 +51,20 @@ PS: MDG Space is a team of enthusiastic students who aim to explore, ideate and 
 
 Contact:
 Secretary- @sick_aada , 7835909580
-8. `src`: https://instagram.fagr1-3.fna.fbcdn.net/v/t51.2885-15/314496516_689923275672917_860210823174795012_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-3.fna.fbcdn.net&_nc_cat=105&_nc_ohc=LwmRSaD4GwYAX8ntfzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfB9XedSbEhvGMgE-0KGZRO-vEJHkMUdX09wUAoEW2jT5g&oe=6408C228&_nc_sid=8fd12b and `caption`: Hello IITR junta,
+8. `src`: https://instagram.fagr1-3.fna.fbcdn.net/v/t51.2885-15/314496516_689923275672917_860210823174795012_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-3.fna.fbcdn.net&_nc_cat=105&_nc_ohc=LwmRSaD4GwYAX_QYDHP&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBl513b0UTaEK35hd3F4SB9D5tlCq_vCVSUvpBii3YUvw&oe=6408C228&_nc_sid=8fd12b and `caption`: Hello IITR junta,
 Greetings from MDG Space!
 We are flooded by the responses for the newly launched 'Appetizer'. Seeing some commonly asked inquiries, we've solved them for you here. Scan the QR or click the link in bio. 
 For any further queries feel free to contact us.
 Join us on slack: https://join.slack.com/t/mdg-open/shared_invite/zt-1jhizcrqt-TrfYLmkX0~I3c_DuDIifpA
 Chat with us: https://mdg.iitr.ac.in/chat
-9. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/314652396_204869471980302_533993795123708560_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Q72pJSLNSCoAX9Q2jO0&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfD4te_0ByJrYIbg9L35rafCbuHbd6eRftj0i3zzrG_f3g&oe=64064E6E&_nc_sid=8fd12b and `caption`: Hello IITR Junta,
+9. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/314652396_204869471980302_533993795123708560_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Q72pJSLNSCoAX-hBZxR&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBPXeIM_rFaU7Ca3eB1mpbNGATTrElYsGPf3Xf1CMfPsA&oe=64064E6E&_nc_sid=8fd12b and `caption`: Hello IITR Junta,
 
 We present Appetizer, an app that offers real-time mess notifications, a Mess Menu display, and a total amount of meals you can skip and get reimbursed! You even have a place to offer feedback and assist the management in raising the calibre of the cuisine.
 
 With love from MDG Space ❤️ and the efforts of the Hostel Council, we are pleased to announce the release of "Appetizer" after a long wait.
 
 Link: https://linktr.ee/mdgiitr
-10. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/313849678_173807115308101_1989353967765744651_n.webp?stp=c60.0.1319.1319a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Jlz2fSc5vcEAX-Dgyv5&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfD5sn3oeV4eZn6ELuwAx87zKKNmjspFEjdJrcx5Lj4S5w&oe=640966CA&_nc_sid=8fd12b and `caption`: Greetings from Hostel Council!
+10. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/313849678_173807115308101_1989353967765744651_n.webp?stp=c60.0.1319.1319a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Jlz2fSc5vcEAX858tM1&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfD7izBVgjmwEYbzbFOhzRrEyvalDf9NE0hpedlr51QaZw&oe=640966CA&_nc_sid=8fd12b and `caption`: Greetings from Hostel Council!
 
 Ever wished to skip a Meal in the Mess? Not able to find the Mess Menu? Agitated by seeing the callous wastage of food? Tired of this constant pandemonium?
 With a stroke of genius and moment of ingenuity, Hostel Council has come up with a one touch, or rather one push solution to all your daily headaches, Appetizer.
@@ -73,20 +73,20 @@ Appetizer is an app developed by MDG in collaboration with Hostel Council, which
 The excruciating wait is finally over as Appetizer is in its final stages of development with last rounds of data collection in process. Soon, Appetizer will grace your mess halls.
 
 Appetizer Loading…
-11. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/310918612_1179985969536716_1883082627972519812_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=5schobIDENUAX-gcKH-&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDMDcNCMuxCo8b_vptd2R7R6fH_-NzT58frZIJcuDDBfw&oe=6408DACB&_nc_sid=8fd12b and `caption`: Hey guys!
+11. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/310918612_1179985969536716_1883082627972519812_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=5schobIDENUAX_B_oJL&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBfDY11y6WAw25floS2o6lDeGpzXf-rrEx2quhQJk5iQQ&oe=6408DACB&_nc_sid=8fd12b and `caption`: Hey guys!
 
 Want to learn new tech stacks to equip you better for your upcoming job opportunity? The tech groups of STC have come together to take y'all on a journey through the world of contributing to Open Source Software. So, get ready for a month long celebration of contributing to open source including talks, workshops, sprints and other fun stuff! Join us for the talk on 6th to know more.
 
 Also tune in for some cool swag :)
 
 Collaborators: @mdgspace @dsgiitr @ds_iitr @sdslabs @acm_iitroorkee @odyssey.iitr
-12. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/286075458_408640967807988_4927386873355795592_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=f_zNKv2r1kIAX8aDvgO&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCFQq9iDg4B8iPT1kvvOE1mKp4URQtwk6aZ-u9ld5p-hw&oe=640929E3&_nc_sid=8fd12b and `caption`: MDG Space presents "Open Source Odyssey"! A two week long program for first yearites to kickstart their open source journeys. Learn the art of collaboration by working on popular GitHub repositories and solving beginner to intermediate issues with guidance from MDG Space members. Further details and steps on our website: mdgspace.org/open-source-odyssey
+12. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/286075458_408640967807988_4927386873355795592_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=f_zNKv2r1kIAX88ingm&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBm5CiI0pjuZzA1J3KXqc1Pj8XnK3Q-AbIhQhd9g-s2pg&oe=640929E3&_nc_sid=8fd12b and `caption`: MDG Space presents "Open Source Odyssey"! A two week long program for first yearites to kickstart their open source journeys. Learn the art of collaboration by working on popular GitHub repositories and solving beginner to intermediate issues with guidance from MDG Space members. Further details and steps on our website: mdgspace.org/open-source-odyssey
 
 Join our Slack: bit.ly/3Q0WUKo
-13. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/285895388_5267473726623031_5991874071618129317_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=YGt5EEvkf_kAX9gVnhe&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD_KroDmKgs51tZXGiQtV4eXlar-Y-K4QJ4OqpmYJMR9Q&oe=640925EA&_nc_sid=86f79a and `caption`: Another successful year in Open Source contributions! Congratulations to @_aman._.singh, @_starboy_24, @burgers.1312, @likeanushkaa and @riya_elizabeth_john for getting selected in prestigious open source programs.
+13. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/285895388_5267473726623031_5991874071618129317_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=YGt5EEvkf_kAX9TYsAO&edm=APU89FABAAAA&ccb=7-5&oh=00_AfALZWmRQBJ9wXly3v02LGCFywo83zqaGU399dmh5XqzEg&oe=640925EA&_nc_sid=86f79a and `caption`: Another successful year in Open Source contributions! Congratulations to @_aman._.singh, @_starboy_24, @burgers.1312, @likeanushkaa and @riya_elizabeth_john for getting selected in prestigious open source programs.
 
 #GSOC #outreachy #MLH #opensourcesoftware
-14. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/281805642_351073063591281_4356589185936953275_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=109&_nc_ohc=zg2wvHrIeVwAX83-9CC&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAK8l0CT9e6qn71Oej5HX4eBU-OCJyuyIPnmiA7ZKXRdA&oe=64096B2E&_nc_sid=86f79a and `caption`: Hey Folks!
+14. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/281805642_351073063591281_4356589185936953275_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=109&_nc_ohc=qIPFMbNqEDYAX--zRl0&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBJZJvbDfywm6Y_TKz2rID3MA92LIv0NooJ8mJH3WvESg&oe=64096B2E&_nc_sid=86f79a and `caption`: Hey Folks!
 Get ready to put your learning caps on, because MDG Space will be conducting an offline #workshop on Servers and APIs on 21st May, 2022, 6:00 pm onwards. Venue: LHC-005
 
 We will be introducing you to the working principles of servers and API handling, this will be followed by a hands-on session where you'll be building a short project using Node.js and Express.
@@ -100,9 +100,9 @@ Resources will be shared after the workshop. As a bonus, refreshments will also 
 For any queries, feel free to ping us on mdg.iitr.ac.in/chat or our Open Slack space link.mdgspace.org/slack.
 
 #webdevelopment #servers #api  #nodejs #expressjs  #MongoDB
-15. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/277776200_454972369647612_9170159355482267172_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=TPrXKcw8FKYAX_HZEFu&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDGzV3etLUlTlj2LaZnlaKFss36NBDztLtli3Px-8_RjA&oe=640A0F05&_nc_sid=86f79a and `caption`: Congratulations!
+15. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/277776200_454972369647612_9170159355482267172_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=TPrXKcw8FKYAX8ieLZu&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB1FhYNR0SNYYVSgcUN6cvlaPKHLvMXYqc6geD9ROCNPQ&oe=640A0F05&_nc_sid=86f79a and `caption`: Congratulations!
 You just got .mdg'ed😉
-16. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/275858624_5526752387369577_4672727225732921799_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=109&_nc_ohc=3c7Lq_d0KaYAX-L_nuf&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBaC18AXQyRYFv4d9_s55xPUPvoJF4-zd21vazfGbe2dQ&oe=640984FB&_nc_sid=86f79a and `caption`: Hola RLanders!
+16. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/275858624_5526752387369577_4672727225732921799_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=109&_nc_ohc=3c7Lq_d0KaYAX8combh&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCF4DInKMAYSJgsStITNJWeKdDQ92pvqt8TFMY5zMfhjg&oe=640984FB&_nc_sid=86f79a and `caption`: Hola RLanders!
 
 The season of recruitment is here! After an amazing SoC and tons of other learning opportunities, we’re happy to announce another shot at getting into MDG Space.
 
@@ -122,7 +122,7 @@ Make sure to be on schedule as no submissions will be accepted post deadline. Al
 
 Feel free to ping us on mdg.iitr.ac.in/chat or our open Slack space regarding any doubts.
 Hope to see you soon on your stellar journey (pun definitely intended) to MDG Space!
-17. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/273174263_1339255779858511_3595949310430973026_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=y4xyBCqxdkYAX-IyRSy&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBJxpI7kBdVBySN9WJDq7u7cLcakgllaPEqQdgewT86gA&oe=6409B02A&_nc_sid=86f79a and `caption`: Hey guys!
+17. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/273174263_1339255779858511_3595949310430973026_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=y4xyBCqxdkYAX_3qqpD&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAzav7tFhvnl8PYyY_yH1wPF-UfQOOv0mUUuqvT0QqP4Q&oe=6409B02A&_nc_sid=86f79a and `caption`: Hey guys!
 The Ideation Phase for SoC 2022 has officially started, and we are accepting Proposal submissions now. Please note that there are separate forms for Solo Designers and Team/Solo Developer applicants and fill accordingly.
 
 Solo Designers: https://forms.gle/zPVpnYY2DUetN8127
@@ -133,12 +133,12 @@ Have doubts regarding how to proceed, or feeling stuck somewhere? Seeing a large
 
 Link for AMA meeting: shorturl.at/dkvDL
 PS: We strongly request all interested peeps to also join our Open-Source Slack Workspace (if you haven't yet!)
-18. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/273035190_130523036126564_9092163889487990095_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=ApAEGSQi9DEAX-0zf5X&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBkeVo0B5Oi_hYotcffVdOUAR3FLhfGPo-L59elKblXhA&oe=6408CEDF&_nc_sid=86f79a and `caption`: Hi folks 😁
+18. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/273035190_130523036126564_9092163889487990095_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=ApAEGSQi9DEAX-D2CLw&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAy08JDnEmwo9HljkfWfUni_LOgVO5U7RlJfA_-ooWnGQ&oe=6408CEDF&_nc_sid=86f79a and `caption`: Hi folks 😁
 As announced in yesterday's workshop, MDG brings to you Season of Code 2022 (Soc'22), our annual 2-month long Mentorship programme. All you have to do is have an idea, and submit a well-formed project proposal following our guidelines (linked below). If your proposal gets shortlisted, you spend the next 2 months building on your idea and actualising your vision. Read here to get the complete details: https://mdg.iitr.ac.in/soc 
 Oh yeah, there's one last thing: This time, we're accepting team submissions (1-3 students) - and both developers and designers are welcome 🥳 (Brownie points for anyone who got the reference!)
 
 Find links in linktree (in bio)
-19. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/273114740_926416734684766_8698610784692813914_n.webp?stp=c210.0.540.540a_dst-jpg_e35&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=N4muVu3nG1QAX8tmHmh&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBLL_FqqXbTtg7PtuxGUymwRyDy5QyKWhaSUb8aDS2bKg&oe=640A12FF&_nc_sid=86f79a and `caption`: (LINKTREE LINK IN BIO)
+19. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/273114740_926416734684766_8698610784692813914_n.webp?stp=c210.0.540.540a_dst-jpg_e35&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=N4muVu3nG1QAX8NFmjQ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBmYILxMZk2lMHuMNlMPAnkMDFYC_Muz0_Z3m9lA6SGow&oe=640A12FF&_nc_sid=86f79a and `caption`: (LINKTREE LINK IN BIO)
 Thank you guys, for actively participating in our workshop series of flutter and making it successful. 
 
 Please find below all the relevant links and resources:
@@ -167,7 +167,7 @@ Contact us:
  Linktree of MDG Space
 
 Keep Learning ✌
-20. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/272629053_473705317472589_47748763738126219_n.webp?stp=c12.0.1056.1056a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=109&_nc_ohc=_RlYRBzLH9IAX_fMw2H&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBiBU-mDcHUlEaX3kxEW6Ff2hv8u3DPf-XsrmeqmcoXvQ&oe=6408F5C0&_nc_sid=86f79a and `caption`: (LINKTREE IN BIO)
+20. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/272629053_473705317472589_47748763738126219_n.webp?stp=c12.0.1056.1056a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=109&_nc_ohc=_RlYRBzLH9IAX_Btm0o&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB3JgvfRMwMAu8RAZpd0cazfEo3Y3dYSFvOo3sy_EIzhQ&oe=6408F5C0&_nc_sid=86f79a and `caption`: (LINKTREE IN BIO)
 Hey Everyone!
 
 Continuing with our series of workshops on Flutter, MDG Space is conducting our second Workshop on MVVM Architecture and Firebase Services on 30th January, 2022, 5:00 pm onwards.
@@ -185,7 +185,7 @@ We also recommend you complete the tasks we mentioned in our previous workshop:
 For any issues, contact us on mdg.iitr.ac.in/chat and join us on our Open Slack Community: https://join.slack.com/t/mdg-open/shared_invite/zt-oda9nlwx-mwwqzjCVRDfyUmuGWVrl7A
 
 See you at the workshop!
-21. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/272652409_269999035232138_2850010632937288459_n.webp?stp=c210.0.540.540a_dst-jpg_e35&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=102&_nc_ohc=5P3ran21RscAX9qw1NZ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC8xEFk-khQt6qNA_kf-d-jFivKdHiXLnW8jBGq2G7u9w&oe=640A002E&_nc_sid=86f79a and `caption`: Hey folks
+21. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/272652409_269999035232138_2850010632937288459_n.webp?stp=c210.0.540.540a_dst-jpg_e35&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=102&_nc_ohc=5P3ran21RscAX-XSQL9&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAYgtU6xSQ9R8ljtvEwTzfvgsDCAXvLrj0h_l8dVLe4dA&oe=640A002E&_nc_sid=86f79a and `caption`: Hey folks
 Thank you , for actively participating in our workshop! As promised during the workshop, here are all the links and resources:
 Workshop link- https://www.youtube.com/watch?v=BFd6syGPvoM
 Slides link- https://docs.google.com/presentation/d/17LG9QXAkaXa0md9NBLrDdEZxpWduvxDb5B7ArZKdIrs/edit?usp=sharing
@@ -208,12 +208,12 @@ Keep Learning 😄
 Cheers,
 MDG ✌
 (All links in FB post too)
-22. `src`: https://instagram.fagr1-3.fna.fbcdn.net/v/t51.2885-15/272478124_1121508841947611_1069982199230132949_n.jpg?stp=c0.200.720.720a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-3.fna.fbcdn.net&_nc_cat=111&_nc_ohc=nFZEMFQpzZsAX9yorBo&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA6POxoobE_3Uy9UWdh_9UdZbjIauyDowRlExL7xik1Qg&oe=640643DF&_nc_sid=86f79a and `caption`: “The secret of change is to focus all of your energy not on fighting the old, but on building the new.” – Socrates
+22. `src`: https://instagram.fagr1-3.fna.fbcdn.net/v/t51.2885-15/272478124_1121508841947611_1069982199230132949_n.jpg?stp=c0.200.720.720a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-3.fna.fbcdn.net&_nc_cat=111&_nc_ohc=_bKtBgowNAkAX_4Ur7e&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDHkxwoJ8NHKqnGqz9Wq6Y1BuIPPI-as8SQf4qFC0zJYA&oe=640643DF&_nc_sid=86f79a and `caption`: “The secret of change is to focus all of your energy not on fighting the old, but on building the new.” – Socrates
 At Mobile Development Group our philosophy has always been - “A place where ideas meet reality”. We converted a lot of ideas into useful mobile applications and the journey has been amazing.
 We’re glad to announce that now we are stepping into MDG Space - A space where we expand our domain to a new ecosystem of technologies aside Mobile tech. We do so under the extension of ".mdg" - an umbrella term for all our projects and activities and a medium for exploration!❤️
 Check out our brand new website here: https://mdg.iitr.ac.in/
-23. `src`: https://instagram.fagr1-3.fna.fbcdn.net/v/t51.2885-15/272511410_631861734698849_2998407143377638011_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-3.fna.fbcdn.net&_nc_cat=105&_nc_ohc=X8_axId-vjMAX8_wP7y&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCvGpWsxtHx5v_6PcFLIrCkYMpXgLHwlmlaHVcGR178ew&oe=64095EDB&_nc_sid=86f79a and `caption`: .
-24. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/271966422_922750831721637_4546942798336925706_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=109&_nc_ohc=aSOCKkHGm7QAX8LdhXE&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCeU8WJvgF6z-EtmzwDW054hY34heqAirhm7ARO6iYYTg&oe=640A1ED6&_nc_sid=86f79a and `caption`: Hello people!
+23. `src`: https://instagram.fagr1-3.fna.fbcdn.net/v/t51.2885-15/272511410_631861734698849_2998407143377638011_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-3.fna.fbcdn.net&_nc_cat=105&_nc_ohc=X8_axId-vjMAX9KXTE-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC_B5TEG3FH-DtycfJOwo6TLbbZO1vVHQtnV4CFOFGwhw&oe=64095EDB&_nc_sid=86f79a and `caption`: .
+24. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/271966422_922750831721637_4546942798336925706_n.webp?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=109&_nc_ohc=aSOCKkHGm7QAX8MWJnW&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDrVcwXBmRoRuhsl9NCYJInY014hk1Pmc4CCXqutJodnQ&oe=640A1ED6&_nc_sid=86f79a and `caption`: Hello people!
 
 MDG is conducting An Introductory Workshop on Mobile Development using Flutter on 23rd January, 2022 from 5:00 pm.
 
@@ -232,27 +232,27 @@ CALENDAR LINK IN BIO!
 
 
 # sdslabs
-1. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/331413222_720761176377968_6629016103491370356_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=GIhYA3L23FMAX8cLrZG&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBXQPvhMk5TinmgPmq2bnnbWtGB6zU_gKfLihjKbgmfTw&oe=640854C1&_nc_sid=8fd12b and `caption`: Missed your chance at WoC? Announcing Makers - a month long event where you can work on our curated list of ideas, or bring your own unique ideas to life! Get an opportunity to hone your skills and connect with like-minded individuals. The event is open to freshers and sophomores.
+1. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/331413222_720761176377968_6629016103491370356_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=GIhYA3L23FMAX90wVwO&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAz6CujtTm6imhuoCJ2z1_Ac0ACMXpjg-QDUHvX-SY8YA&oe=640A4F01&_nc_sid=8fd12b and `caption`: Missed your chance at WoC? Announcing Makers - a month long event where you can work on our curated list of ideas, or bring your own unique ideas to life! Get an opportunity to hone your skills and connect with like-minded individuals. The event is open to freshers and sophomores.
 
 Submission Deadline: 9th March 11:59 PM
 
 Scan the QR or visit the link in our bio to access the ideas list. Connect with us on our open source discord server for any help.
-2. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/330838051_1403989547018298_5046387926811247821_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=cvdtIj5elaEAX-7tUDa&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDzyT_xuY8D5AOJbmu-5YLGyoMhPNIuFl8FrY_NnKy8Ww&oe=640A0ECD&_nc_sid=8fd12b and `caption`: 𝙸𝚏 (𝚜𝚒𝚣𝚎𝚘𝚏(𝚞𝚗𝚛𝚎𝚜𝚘𝚕𝚟𝚎𝚍-𝚝𝚑𝚛𝚎𝚊𝚍𝚜) == 0) {
+2. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/330838051_1403989547018298_5046387926811247821_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ZkY-pvTwGHwAX_631H8&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCg3MYBmJ5Kz0f6lQtbBoeTR8OZq2wJH4pALgw1BukAsg&oe=640A0ECD&_nc_sid=8fd12b and `caption`: 𝙸𝚏 (𝚜𝚒𝚣𝚎𝚘𝚏(𝚞𝚗𝚛𝚎𝚜𝚘𝚕𝚟𝚎𝚍-𝚝𝚑𝚛𝚎𝚊𝚍𝚜) == 0) {
  𝚙𝚞𝚋𝚕𝚒𝚜𝚑-𝚙𝚎𝚛𝚌𝚢-𝚋𝚕𝚘𝚐();
 }
 
 After resolving all the threads, the blog is finally ready to be released!
 
 Checkout https://blog.sdslabs.co to read about @zeroes_and_vansh 's exciting journey as a developer at SDSLabs. (link in bio!)
-3. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/330482281_218272073937968_6310485822693819765_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=uETTmBeNstYAX9821co&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCtxt0k9Rc8Qsk6FFHp0QhPaY7TtxJU_SUhWBTyVoUA6Q&oe=6409857F&_nc_sid=8fd12b and `caption`: Congratulations to all the shortlisted candidates!
+3. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/330482281_218272073937968_6310485822693819765_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=uETTmBeNstYAX_6pL77&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfClo7hR3WD4z5GRs_iIJATxMoPrhl2XYNGBN0truYtJLQ&oe=6409857F&_nc_sid=8fd12b and `caption`: Congratulations to all the shortlisted candidates!
 
 We got an overwhelming number of responses this year! If you weren't selected, fret not for there are more events planned in the coming months. You can still develop your project as a submission for SDSLabs' Makers. And you're more than welcome to drop by on our discord server for help or a quick chat (link in bio).
-4. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/329758010_665659951917148_8443288633050381383_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=g9non_8eFnAAX8zZRin&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCaeQ76NuKiWJOTYl72N6MRmMM2Ehaj9xosk1y5dEwuEQ&oe=6408F7F8&_nc_sid=8fd12b and `caption`: On popular demand we are officially extending the WOC deadline to 12th February, 2023.
+4. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/329758010_665659951917148_8443288633050381383_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=g9non_8eFnAAX_Ea2Hn&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfD6RWRBLnPqB0sSucVa-kRuTHIBbrGTxgY9jP8hr4b4Ow&oe=6408F7F8&_nc_sid=8fd12b and `caption`: On popular demand we are officially extending the WOC deadline to 12th February, 2023.
 
 Register now at: https://woc.sdslabs.co/
-5. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/328250139_1381619765944189_5485159279625876442_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=qfbUPhnyJKUAX9mlQEk&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDj3NdFwWPAyWN1ff67mHmM8dfK78u0z720yg6WqdagVw&oe=6408C20E&_nc_sid=8fd12b and `caption`: The winners of @scrappysquirrels Sponsor tracks have been declared. Congratulations to the winning participants!
-6. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/328225048_729556508734869_5031924698249370774_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=109&_nc_ohc=86WHG7RQuXoAX_oUB3x&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDBeJ0Bb5_FUxpltdcpWL_rUmS7-MrjHibgEW6VbP5q5g&oe=6409713B&_nc_sid=8fd12b and `caption`: The results of the Alumni track for Syntax Error 2023 are here! Congratulations to all the winners.
-7. `src`: https://instagram.fagr1-3.fna.fbcdn.net/v/t51.2885-15/327424427_2415069875313923_8013201545627467626_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-3.fna.fbcdn.net&_nc_cat=111&_nc_ohc=xGDVbeUETRgAX_FRrof&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDaJaj9vThCguQcNqpetY57Bual9xb2yFeZrn_yae5m1g&oe=640A01B0&_nc_sid=8fd12b and `caption`: Bring in the heat this winter, for SDSLabs excitedly announces this year’s edition of Winter of Code! It is our annual month long mentorship program, with a format similar to GSoC.
+5. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/328250139_1381619765944189_5485159279625876442_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=qfbUPhnyJKUAX-2AqQv&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAGs-GRBeOunp2Ejd83fRbjkYfk9QYvTB01Wzh2rH8WFg&oe=6408C20E&_nc_sid=8fd12b and `caption`: The winners of @scrappysquirrels Sponsor tracks have been declared. Congratulations to the winning participants!
+6. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/328225048_729556508734869_5031924698249370774_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=109&_nc_ohc=86WHG7RQuXoAX-rh-4W&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBpRxGVAt6DBm4cpxLfbLT6Tn_ZFNIfrNWylVud-MFJQw&oe=6409713B&_nc_sid=8fd12b and `caption`: The results of the Alumni track for Syntax Error 2023 are here! Congratulations to all the winners.
+7. `src`: https://instagram.fagr1-3.fna.fbcdn.net/v/t51.2885-15/327424427_2415069875313923_8013201545627467626_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-3.fna.fbcdn.net&_nc_cat=111&_nc_ohc=xGDVbeUETRgAX-0GTff&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDq9wvX2bhMpxnkzofEFxRQAqg6xvKesuisGHqZURGTXg&oe=640A01B0&_nc_sid=8fd12b and `caption`: Bring in the heat this winter, for SDSLabs excitedly announces this year’s edition of Winter of Code! It is our annual month long mentorship program, with a format similar to GSoC.
 
 As a part of WoC, participants are required to submit a proposal for an idea they would like to work on or design a solution to that problem. You are free to choose any problem statement you like, or propose new features on any of the existing SDSLabs projects.
 
@@ -261,7 +261,7 @@ If your proposal is selected, you’ll be mentored by our team under whom you wi
 Register now at: https://woc.sdslabs.co/
 
 PS: Kindly note that WoC invites individual participation ONLY. It is not a team event.
-8. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/326434996_828167024948032_5742720649722855483_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=xgdyHv0c5fEAX9sOy5H&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBtAV6V4W2eYB0bLL966TnlmusBgCZvIK6VjOwTtKsDPA&oe=640A044C&_nc_sid=8fd12b and `caption`: Global Game Jam 2023 is happening soon and SDSLabs IIT Roorkee will be a site for the same!
+8. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/326434996_828167024948032_5742720649722855483_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=8s1yJUzoMSIAX8fVcmr&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAMCNMOHp27gZC4v0MP5yGTH2ryxr9C-iiRnUi_cBUh4g&oe=640A044C&_nc_sid=8fd12b and `caption`: Global Game Jam 2023 is happening soon and SDSLabs IIT Roorkee will be a site for the same!
 
 The Global Game Jam (GGJ) is the world's largest game jam event (game creation) taking place around the world at different sites within the same time period. Think of it as a hackathon focused on game development.
 
@@ -283,13 +283,13 @@ Join our Discord server: https://discord.gg/gThNeXG5j4
 Read up about Global Game Jam: https://globalgamejam.org/
 
 If this is your first game jam: https://globalgamejam.org/faq
-9. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/325759062_611083000737036_2225333211672267766_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=zQL1YadL_DQAX-Oh6yr&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCSeGIQgKn8RAgru2RodjWVJTWWsmnb45LM4uGHgQ8AvQ&oe=6409A523&_nc_sid=8fd12b and `caption`: The results of our title sponsor @routerprotocolofficial ‘s track have been finalised. A hearty congratulations to all the winners!
-10. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/325922870_1249712618958805_819029988195766363_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=RsWGApSFL1UAX8Z2fIm&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCbI6SfpQVYqWcewDAPdk6VDr7tHwMzKnz7OjFt9fmVFw&oe=64093266&_nc_sid=8fd12b and `caption`: After days of anticipation, here are the results for Open, Freshman and Design tracks of Syntax Error 2023! Your hard work and innovative ideas have truly impressed us. A shout out to all winners for their outstanding projects. 
+9. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/325759062_611083000737036_2225333211672267766_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=zQL1YadL_DQAX9BToCL&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAoHX_TiTmT57VEMPyTpfRGIBpI_Tr78eJPFMFDhhPYtQ&oe=6409A523&_nc_sid=8fd12b and `caption`: The results of our title sponsor @routerprotocolofficial ‘s track have been finalised. A hearty congratulations to all the winners!
+10. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/325922870_1249712618958805_819029988195766363_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=RsWGApSFL1UAX9AeZzi&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAhBoIkfQL-RRdoxT6p_lgzRRHwohD3h9OxNOJenQ80og&oe=64093266&_nc_sid=8fd12b and `caption`: After days of anticipation, here are the results for Open, Freshman and Design tracks of Syntax Error 2023! Your hard work and innovative ideas have truly impressed us. A shout out to all winners for their outstanding projects. 
 
 Thank you to everyone who participated and made this event a success. Keep pushing boundaries and creating amazing things!
 
 Note: Sponsor track winners to be announced soon, stay tuned!
-11. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/325559508_546661280828786_8324114453422922304_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=102&_nc_ohc=9wMxfva_svEAX_dg9VB&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBIrjYRzg984LTJ9c-jy4Qm7M2FtsSFjDiWMhdp4lULkA&oe=640A2249&_nc_sid=8fd12b and `caption`: Meet the esteemed judges of Syntax Error 2023, who are also our beloved IITR and SDSLabs Alumni!
+11. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/325559508_546661280828786_8324114453422922304_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=102&_nc_ohc=9wMxfva_svEAX-7ldb0&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCabUsop8CIz4366v-bZ2IUGyS0T4ZxJRwtcF-oa4nVlA&oe=640A2249&_nc_sid=8fd12b and `caption`: Meet the esteemed judges of Syntax Error 2023, who are also our beloved IITR and SDSLabs Alumni!
 
 Akashdeep Goel (2018 Grad)
 Arpit Singla (2018 Grad)
@@ -298,7 +298,7 @@ Nipun Vashishtha (2020 Grad)
 Parinishtha Yadav (2019 Grad)
 
 We are honored to have their expertise and insights guiding our competitors!
-12. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/324834134_1320016818568222_2587305058200432623_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=GIW76mHv8FAAX-LqGAI&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAkfEkuLmtzX3AHexHxtt8dIe69ZJkl-egT4pB_ajjAxw&oe=640867D6&_nc_sid=8fd12b and `caption`: Are you ready to showcase your skills and creativity? 
+12. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/324834134_1320016818568222_2587305058200432623_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=GIW76mHv8FAAX_7AA8K&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAL0NEZyZirhj8VRQrG3wZqi7X4TfFc8eir-0OBlNPx9A&oe=640A6216&_nc_sid=8fd12b and `caption`: Are you ready to showcase your skills and creativity? 
 
 The moment we've all been waiting for is finally here. Syntax Error is officially kicking off and we couldn't be more excited! Gear up for a weekend of coding, problem-solving and innovation.
 
@@ -311,7 +311,7 @@ Compulsory for all participants to attend. We’ll explain all rules, tracks and
 Dean SRIC and Faculty Advisor STC will grace the occasion with their warm presence.
 
 Hoping to see you there!
-13. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/324697573_3462803060664075_7823555707360477540_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=103&_nc_ohc=u4BCVxUWtxYAX-th2Zw&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDchNnH7LlpcxyFsmqg13r2FdI5I4SMYcSx8lUm-MZd4A&oe=6408A5EE&_nc_sid=86f79a and `caption`: SDSLabs in collaboration with @routerprotocolofficial come to you with an offline workshop on “How to make Cross-Chain NFTs.”
+13. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/324697573_3462803060664075_7823555707360477540_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=103&_nc_ohc=u4BCVxUWtxYAX8SmW0z&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC4wnnVPvpX8FqMfsZoEFzFKdFZ-aci8hNvTXXBywbuGA&oe=6408A5EE&_nc_sid=86f79a and `caption`: SDSLabs in collaboration with @routerprotocolofficial come to you with an offline workshop on “How to make Cross-Chain NFTs.”
 
 The workshop is compulsory for all IITR Syntax Error participants to attend.
 
@@ -319,13 +319,13 @@ Time: 12th January, 6:30pm
 Venue: MAC Auditorium 
 
 Do make sure to attend it with all you teammates!
-14. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/324399572_942921003748819_5740732900386554549_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Ra7sO3HDjzEAX-Ht_Qg&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDYtHGKYhGR_gKdYbXpGO7Y3CzfxP77a9-KZbMqBNPJFg&oe=640A1539&_nc_sid=86f79a and `caption`: Unlock the secrets of code and discover the limitless potential of development in this hands-on workshop by SDSLabs. Whether you’re building a website, a mobile app or any other software, this workshop will give you the insight about the tools you need to get started!
+14. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/324399572_942921003748819_5740732900386554549_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Ra7sO3HDjzEAX8dRonQ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAK95Sn1116a_F8dr8DZyUiUnRr-BBx9FZHPsDvv5tkJw&oe=640A1539&_nc_sid=86f79a and `caption`: Unlock the secrets of code and discover the limitless potential of development in this hands-on workshop by SDSLabs. Whether you’re building a website, a mobile app or any other software, this workshop will give you the insight about the tools you need to get started!
 
 Venue: APJAKB-004 (New LHC)
 Time: January 11th, 6:30pm
 
 See you there!
-15. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/324077922_129821199736532_5805657169660543464_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=clpSIN5lAzsAX_ZcmN0&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDX2uswnskh37itUYgNmnqy7qBbNvKpkdKLDn1uwesJQw&oe=64091B5B&_nc_sid=86f79a and `caption`: Git? GitHub? Ever heard of these terms? Wondering how to collaborate with your team mates for your hackathon project? We’ve got you covered!
+15. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/324077922_129821199736532_5805657169660543464_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=clpSIN5lAzsAX9tcCm8&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCzxIj4K61b94OysfbC3z2xeOrtSyJ6xFPVtLSu6WEryg&oe=64091B5B&_nc_sid=86f79a and `caption`: Git? GitHub? Ever heard of these terms? Wondering how to collaborate with your team mates for your hackathon project? We’ve got you covered!
 
 SDSLabs is conducting an introductory workshop on Version Control, to help beginners prepare for Syntax Error 2023. Bring your laptops fully charged.
 
@@ -333,7 +333,7 @@ Time: 10th January, 6:30 pm
 Venue: L2-001
 
 See you there!
-16. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/324386514_1387419692002136_3020185005847241260_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=lulqwZIo3uAAX_h_u1v&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDF-3z91ClK-g8cB8B__xzwor4nP24OJEDQA4esNZMNkg&oe=6408F601&_nc_sid=86f79a and `caption`: SDSLabs in collaboration with Aztec brings you an online session on “Getting Started with Aztec Network.”
+16. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/324386514_1387419692002136_3020185005847241260_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=lulqwZIo3uAAX8p4D2W&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCTDFb5fUDzYnAaN6-xpWHyheFeUcaJlvFO4WoWpdz8Xg&oe=6408F601&_nc_sid=86f79a and `caption`: SDSLabs in collaboration with Aztec brings you an online session on “Getting Started with Aztec Network.”
 
 Date: January 9, 9:00pm
 
@@ -346,7 +346,7 @@ Webinar password:
 EyCts6mS7C2
 
 See you there!
-17. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/324263949_1850262525310442_3162536061820849369_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=102&_nc_ohc=KNCVxvknVakAX8CEpRB&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCtONvjkXWHBDEuJhyp6YUnBQIWV6zTHF17O2zqmqMuPg&oe=6409C9C4&_nc_sid=86f79a and `caption`: Next up in our workshop series: Design Dive!
+17. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/324263949_1850262525310442_3162536061820849369_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=102&_nc_ohc=KNCVxvknVakAX-YZm1B&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAQD3YhGvJT24UhXdKuFKoK-32C3Dd5REDGWTOhdFsRQg&oe=6409C9C4&_nc_sid=86f79a and `caption`: Next up in our workshop series: Design Dive!
 
 Get ready for an exciting design journey with our upcoming lecture on UI/UX, graphic, and game design! Not only will you learn the basics, but we'll also be giving a detailed tutorial on Figma and also be sharing insights on the design track of our upcoming hackathon, Syntax Error.
 
@@ -354,7 +354,7 @@ Venue: L2-001
 Time: January 8, 3:00pm
 
 No prerequisites required. See you there!
-18. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/324221321_537794151623983_6244219215964064168_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=OGsVv6MRqMEAX-iLftI&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB0WoH51EoKGVZBuVVIEBPSFhzvvU6Uz9cMYHu__d0N3w&oe=64096674&_nc_sid=86f79a and `caption`: Has Web3 ever intrigued you? What is blockchain? Ever wondered how NFTs are made?
+18. `src`: https://instagram.fagr1-1.fna.fbcdn.net/v/t51.2885-15/324221321_537794151623983_6244219215964064168_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ZwEHZ51YMMMAX8cKoPF&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC8Lgl-fd4gnEDdw4K4evSpxwzDcBO8QD13VjBH2hVjKw&oe=64096674&_nc_sid=86f79a and `caption`: Has Web3 ever intrigued you? What is blockchain? Ever wondered how NFTs are made?
 
 If yes, @scrappysquirrels bring to you a workshop on ‘Creating NFTs on the Ethereum Blockchain’. 
 
@@ -372,7 +372,7 @@ Webinar password:
 
 See you there!
 Check them out at: scrappysquirrels.xyz
-19. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/323587149_2055937271267361_1901205457243441909_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=109&_nc_ohc=BifLvUAGTUIAX_Q-BWc&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD4uvE-ne06jJo9qJk3bh3-k72MEW_YiqX3PEVHqk8C1g&oe=64087096&_nc_sid=86f79a and `caption`: Continuing with our series of workshops, @fuelerhq brings to you a session on ‘Choosing the right tech stack for web development in 2023’
+19. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/323587149_2055937271267361_1901205457243441909_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=109&_nc_ohc=BifLvUAGTUIAX9XMLzI&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBXHnu5KSg5MP_T8wQvl3x5fPK9E0hxcLyqMr7aHm3AWQ&oe=640A6AD6&_nc_sid=86f79a and `caption`: Continuing with our series of workshops, @fuelerhq brings to you a session on ‘Choosing the right tech stack for web development in 2023’
 
 Time: January 6, 9:00pm
 Mode: Online
@@ -388,14 +388,14 @@ Webinar password:
 6MXfBdajb36
 
 See you there!
-20. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/323582289_1326521834813718_7585690936549147958_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=B6iZVzvieTYAX993j3r&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDkrZYxNkEzTarQWEWqX7UL6kLZ6jZEp5joG_7Ll0UCFw&oe=64089877&_nc_sid=86f79a and `caption`: Here’s the line-up of multiple events we’ve planned for you. 
+20. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/323582289_1326521834813718_7585690936549147958_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=B6iZVzvieTYAX8GMH7H&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBGAN7p4GgTp74iCaGe00zPJHi7d5QD0CHTjnx2R7jdSA&oe=64089877&_nc_sid=86f79a and `caption`: Here’s the line-up of multiple events we’ve planned for you. 
 
 Starting today, there are a number of workshops and sessions planned to cater to your interests. See you there!
-21. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/323896659_241297571572302_2075706278645410022_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Bw1kZMkuCqkAX8nO6Xj&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCyvRm-uiXUWnYIVMBWNy5sT5IxIsRHjEj-KpMq8Ou8IA&oe=640892AC&_nc_sid=86f79a and `caption`: Get excited! For we announce the sponsor prizes and tracks for Syntax Error 2023. It includes cash, NFTS, subscriptions, schwags, goodies and more!
+21. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/323896659_241297571572302_2075706278645410022_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Bw1kZMkuCqkAX_zHX6y&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDRjUWbRKfaCOxp4U2kYwr-xX3eWp1MhRGVpu10moP-zA&oe=640892AC&_nc_sid=86f79a and `caption`: Get excited! For we announce the sponsor prizes and tracks for Syntax Error 2023. It includes cash, NFTS, subscriptions, schwags, goodies and more!
 
 Visit: 
 syntax-error-2023.devfolio.co/prizes for more details
-22. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/323497327_554141326332006_6426016872244018989_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=YL3Uw3Y9lT4AX-4FYvf&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAlfVBnfOgYy4IgJ15UjYF4j11hLzT2Av1K3ssf8C-hhw&oe=6408765F&_nc_sid=86f79a and `caption`: The awaited IIT Roorkee Linux Party is here!
+22. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/323497327_554141326332006_6426016872244018989_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=YL3Uw3Y9lT4AX-PrCpg&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCjr8yON6K5B8rEuuU_DFscwDCJ2C-vLy1k4-SE0etqjg&oe=640A709F&_nc_sid=86f79a and `caption`: The awaited IIT Roorkee Linux Party is here!
 To celebrate the spirit of open source and Linux, we will introduce you to open-source software, tools and various other software related to application development, machine learning and information security after installing Linux Ubuntu on your laptops. 
 
 This event will provide a platform for all the tech and open-source enthusiasts to meet, discuss, socialize and get bootstrapped to dive into the open-source world.
@@ -417,7 +417,7 @@ If you cannot follow any of these, feel free to drop a message at https://chat.s
 Note: "Impossible to see, the future is." Having your data backed up is recommended if things go differently than planned. Make sure you do that beforehand, taking your time, as you won’t like waiting for a long, long time and others waiting for you to finish your backup.
 
 See you soon at the party!
-23. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/322417279_930570654593974_949169860230175106_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=TNnB1nnpeGUAX8bU8BP&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCxbyFMJE120suzq-plh4cWZRaIq7Ai_6mkY_YfYsejBw&oe=64097C17&_nc_sid=86f79a and `caption`: Finally, here we give a shoutout to the rest of our sponsors!
+23. `src`: https://instagram.fagr1-4.fna.fbcdn.net/v/t51.2885-15/322417279_930570654593974_949169860230175106_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fagr1-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=TNnB1nnpeGUAX9qpMt_&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBEx7t3uCqhHrTIJ4pheCvMvvaM1Exw0LGVIOKy1DT6cw&oe=64097C17&_nc_sid=86f79a and `caption`: Finally, here we give a shoutout to the rest of our sponsors!
 
 Aztec Network is a privacy shield for Ethereum. Aztec enables affordable, private crypto payments and DeFi interactions via zero-knowledge proofs. Check them out at https://aztec.network/
 
@@ -430,7 +430,7 @@ Fueler is an online platform to help you showcase your work on the internet. It'
 Scrappy Squirrels is a collection of 14,000 NFTs on the Ethereum blockchain. Scrappy Squirrels are meant for engineers, designers, and entreprenuers pushing web3 forward. Check them out at https://scrappysquirrels.xyz/
 
 Wolfram is one of the world's most respected computer, web and cloud software companies—as well as a powerhouse of scientific and technical innovation. Check them out at https://www.wolfram.com/?source=nav
-24. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/322262541_205633861962180_2648303084500950446_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=ju-uzc9yn4AAX_iyqzs&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBku0YVh5ERa3sYE_ikPa61hq8SFInIbLbZQkJUTGDblw&oe=6409D3D5&_nc_sid=86f79a and `caption`: With this, we're pleased to announce @filecoinio as our associate sponsor! Filecoin is a decentralised storage network designed to store humanity's most important information. Check them out at: https://filecoin.io/
+24. `src`: https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-15/322262541_205633861962180_2648303084500950446_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=pPK84PjTyuQAX_Mz9wd&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB-1ASEveBi83VH4sGOnhs8ALyvzseuT5d2FJy0po3cOw&oe=6409D3D5&_nc_sid=86f79a and `caption`: With this, we're pleased to announce @filecoinio as our associate sponsor! Filecoin is a decentralised storage network designed to store humanity's most important information. Check them out at: https://filecoin.io/
 
 You can follow them at:
 Slack: https://filecoin.io/slack
