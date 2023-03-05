@@ -4,16 +4,36 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 import time
+from dotenv import dotenv_values
 
+# Config the env variables
+config = dotenv_values(".env")
+USERNAME = config['USERNAME']
+PASSWORD = config['PASSWORD']
+
+# Config the browser options and initialising driver
+options = webdriver.ChromeOptions()
+options.add_argument("--disable-blink-features=AutomationControlled")
+options.add_experimental_option("useAutomationExtension", False)
+options.add_experimental_option("excludeSwitches", ["enable-automation"])
+prefs = {"credentials_enable_service": False,
+         "profile.password_manager_enabled": False}
+options.add_experimental_option("prefs", prefs)
 service = ChromeService(executable_path=ChromeDriverManager().install())
-driver = webdriver.Chrome(service=service)
+driver = webdriver.Chrome(service=service, options=options)
+driver.execute_script(
+    "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
 
+# Different Public insta account urls
 urls = ["https://www.instagram.com/mdgspace/",
         "https://www.instagram.com/sdslabs/"]
+
+# Opening the main.md file
 main = open("main.md", "a", encoding='utf-8')
 
 
-def loadMorePost(driver, number_of_more_loads):
+# Function to load more post without logged in user
+def loadMorePostWithoutLogin(driver, number_of_more_loads):
     i = 1
     n = number_of_more_loads
     while i <= n:
@@ -29,18 +49,55 @@ def loadMorePost(driver, number_of_more_loads):
             break
 
 
+# Function to login to instagram
+def login(driver, username, password):
+    WebDriverWait(driver, timeout=15).until(
+        lambda d: d.find_element(By.CSS_SELECTOR, "._aa4b._add6._ac4d"))
+    inputs = driver.find_elements(
+        by=By.CSS_SELECTOR, value="._aa4b._add6._ac4d")
+    inputs[0].send_keys(username)
+    inputs[1].send_keys(password)
+    WebDriverWait(driver, timeout=15).until(
+        lambda d: d.find_element(By.CSS_SELECTOR, "._ab8w._ab94._ab99._ab9f._ab9m._ab9p._abcm"))
+    btns = driver.find_elements(
+        by=By.CSS_SELECTOR, value="._ab8w._ab94._ab99._ab9f._ab9m._ab9p._abcm")
+    btns[3].click()
+    time.sleep(10)
+
+
+# Function to load more post with logged in user
+def loadMorePostWithLogin(driver):
+    SCROLL_PAUSE_TIME = 7
+    last_height = driver.execute_script("return document.body.scrollHeight")
+    while True:
+        driver.execute_script(
+            "window.scrollTo(0, document.body.scrollHeight);")
+        time.sleep(SCROLL_PAUSE_TIME)
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        if new_height == last_height:
+            break
+        last_height = new_height
+
+
+# Without login upto 30 posts can be scrapped
+# driver.get("https://instagram.com")
+# login(driver, USERNAME, PASSWORD)
+
+
 for url in urls:
+    username_from_url = url.split(".com/")[1].replace("/", "")
     driver.get(url)
-    # load more post otherwise only some post are loaded by default
-    loadMorePost(driver, 3)
+    loadMorePostWithoutLogin(driver, 2)
+    # loadMorePostWithLogin(driver)
+
     WebDriverWait(driver, timeout=15).until(
         lambda d: d.find_element(By.CSS_SELECTOR, "._aagv img"))
     images = driver.find_elements(by=By.CSS_SELECTOR, value="._aagv img")
-    main.write(f"{url}\n")
+    main.write(f"# {username_from_url}\n\n")
     for image in images:
         caption = image.get_attribute("alt")
         src = image.get_attribute("src")
-        main.write(f"src:{src} caption: {caption}\n")
+        main.write(f"src:`{src}`\n caption: `{caption}`\n")
     main.write("\n\n\n")
 
 driver.quit()
