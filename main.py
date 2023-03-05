@@ -11,18 +11,9 @@ config = dotenv_values(".env")
 USERNAME = config['USERNAME']
 PASSWORD = config['PASSWORD']
 
-# Config the browser options and initialising driver
-options = webdriver.ChromeOptions()
-options.add_argument("--disable-blink-features=AutomationControlled")
-options.add_experimental_option("useAutomationExtension", False)
-options.add_experimental_option("excludeSwitches", ["enable-automation"])
-prefs = {"credentials_enable_service": False,
-         "profile.password_manager_enabled": False}
-options.add_experimental_option("prefs", prefs)
+# Initialising driver
 service = ChromeService(executable_path=ChromeDriverManager().install())
-driver = webdriver.Chrome(service=service, options=options)
-driver.execute_script(
-    "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+driver = webdriver.Chrome(service=service)
 
 # Different Public insta account urls
 urls = ["https://www.instagram.com/mdgspace/",
@@ -89,15 +80,14 @@ for url in urls:
     driver.get(url)
     loadMorePostWithoutLogin(driver, 2)
     # loadMorePostWithLogin(driver)
-
     WebDriverWait(driver, timeout=15).until(
         lambda d: d.find_element(By.CSS_SELECTOR, "._aagv img"))
     images = driver.find_elements(by=By.CSS_SELECTOR, value="._aagv img")
-    main.write(f"# {username_from_url}\n\n")
-    for image in images:
+    main.write(f"# {username_from_url}\n")
+    for index, image in enumerate(images):
         caption = image.get_attribute("alt")
         src = image.get_attribute("src")
-        main.write(f"src:`{src}`\n caption: `{caption}`\n")
+        main.write(f"{index+1}. `src`: {src} and `caption`: {caption}\n")
     main.write("\n\n\n")
 
 driver.quit()
