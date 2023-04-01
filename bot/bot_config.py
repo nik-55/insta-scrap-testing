@@ -6,16 +6,15 @@ from os import getenv as os_getenv
 from dotenv import load_dotenv
 
 class BotConfig(webdriver.Chrome):
-    __env = {}
+    _env = {}
     def __init__(self) -> None:
         self.__setEnvironmentVariable()
         service = self.__configService()
-        options = self.__configOptions(True)
+        options = self.__configOptions()
         super().__init__(service=service,options=options)
-        self.__configWait(5)
-        self._open('https://github.com/mdgspace')
+        self.__configWait(15)
 
-    def __configOptions(self, display_browser):
+    def __configOptions(self, display_browser=False):
         options = Options()
         options.add_argument('start-maximized')
         if display_browser:
@@ -32,8 +31,10 @@ class BotConfig(webdriver.Chrome):
 
     def __setEnvironmentVariable(self):
         load_dotenv(override=True)
-        self.__env['USERNAME'] = os_getenv('USERNAME') or ""
-        self.__env['PASSWORD'] = os_getenv('PASSWORD') or ""
+        self._env['USERNAME'] = os_getenv('USERNAME') or ""
+        self._env['PASSWORD'] = os_getenv('PASSWORD') or ""
+        self._env['INSTA_BASE_URL'] = os_getenv("INSTA_BASE_URL") 
+
 
     def _quit(self):
         self.quit()
