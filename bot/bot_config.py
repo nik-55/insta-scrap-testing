@@ -17,8 +17,8 @@ class BotConfig(webdriver.Chrome):
     def __configOptions(self, display_browser=False):
         options = Options()
         options.add_argument('start-maximized')
-        if display_browser:
-            options.add_argument("--headless")
+        if not display_browser:
+            options.add_argument("--headless=new")
         return options
     
     def __configService(self):

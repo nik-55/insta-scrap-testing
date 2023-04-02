@@ -1,4 +1,4 @@
-# This file contain api for testing bot only and will be removed after proper flask setup
+# This file contain api for testing bot only and will be removed after proper flask setup 
 
 from flask import Flask
 from bot.insta_bot.scrape_posts import ScrapePost
@@ -7,8 +7,11 @@ app = Flask(__name__)
 
 @app.route('/posts/<username>')
 def getPosts(username):
-    return username
+    try:
+        return ScrapePost().getPosts(username)
+    except:
+        return "Error occured look to break points for debug"
 
 if __name__ == '__main__':
-    # app.run()
-    print(ScrapePost().getPosts('mdgspace'))
+    app.run()
+    # print(ScrapePost().getPosts('mdgspace'))

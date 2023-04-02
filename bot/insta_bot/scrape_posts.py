@@ -1,6 +1,8 @@
 from selenium.webdriver.common.by import By
 from ..bot_config import BotConfig
 from .page.login import LoginPage
+from .page.profile import ProfilePage
+import time
 
 class ScrapePost(BotConfig):
     def __init__(self) -> None:
@@ -11,9 +13,12 @@ class ScrapePost(BotConfig):
         self._open(self._baseURL)
         login_page = LoginPage(self)
         login_page.login()
+        time.sleep(5)
 
     def getPosts(self,username):
         self.login()
         self._open(f'{self._baseURL}/{username}')
-        posts=[]
+        time.sleep(5)
+        profile_page = ProfilePage(self)
+        posts = profile_page.getPosts()
         return posts
