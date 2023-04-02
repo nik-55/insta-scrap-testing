@@ -41,6 +41,7 @@ class ProfilePage:
                 else:
                     break
             return posts
-        except:
-            print("Expected break point: page/profile.py getPosts")
+        except Exception as error:
+            print("Expected break point: page/profile.py getPosts",error)
             self.driver._quit()
+            return "Error in scraping"
