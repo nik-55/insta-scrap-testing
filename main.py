@@ -2,7 +2,7 @@
 
 from flask import Flask, request
 from bot.insta_bot.scrape_posts import ScrapePost
-from database.db import create_tables, save_posts, read_posts, does_club_exist, save_user,add_club,login_required
+from database.db import create_tables, save_posts, read_posts, does_club_exist
 SECRET_KEY = 'hin6bab8ge25*r=x&amp;+5$0kn=-#log$pt^#@vrqjld!^2ci@g*b'
 from views.auth import auth
 app = Flask(__name__)
@@ -23,18 +23,6 @@ def getPosts(username):
     except Exception as error:
         print(error)
         return "error"
-    
-@app.route('/users/register',methods=['POST'])
-def register():
-    data = request.get_json()
-    username = data['username']
-    password = data['password']
-    return save_user(username,password)
-
-@app.route('/users/addclub')
-@login_required
-def addclub():
-    return add_club()
 
 if __name__ == '__main__':
     create_tables()
