@@ -3,7 +3,7 @@ from peewee import ForeignKeyField
 from .user import User
 from .club import Club
 
-class Relationship(BaseModel):
+class ClubUserRelationship(BaseModel):
     user = ForeignKeyField(User,backref='users')
     club = ForeignKeyField(Club,backref='clubs')
 
