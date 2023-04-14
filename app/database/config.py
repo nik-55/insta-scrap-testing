@@ -1,5 +1,5 @@
 from peewee import SqliteDatabase
 
-DATABASE = 'club.db'
+DATABASE = "club.db"
 
 database = SqliteDatabase(DATABASE)
