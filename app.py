@@ -1,10 +1,10 @@
 # This file contain api for testing bot only and will be removed after proper flask setup 
 
 from flask import Flask
-from database.db import create_tables
+from app.database.db import create_tables
+from app.views.auth import auth
+from app.views.posts import posts, scrape_posts
 SECRET_KEY = 'hin6bab8ge25*r=x&amp;+5$0kn=-#log$pt^#@vrqjld!^2ci@g*b'
-from views.auth import auth
-from views.posts import posts, scrape_posts
 
 app = Flask(__name__)
 app.config.from_object(__name__)
