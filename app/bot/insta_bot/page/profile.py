@@ -1,26 +1,35 @@
 from selenium.webdriver.common.by import By
 
+
 class ProfilePage:
     def __init__(self, driver) -> None:
         self.driver = driver
 
     def __imgs(self):
-        return self.driver.find_elements(by=By.XPATH, value='//article[1]//img')
-    
-    # This may break 
+        return self.driver.find_elements(by=By.XPATH, value="//article[1]//img")
+
+    # This may break
     def __no_of_posts(self):
-        return self.driver.find_element(by=By.XPATH, value='//header[1]//section[1]//ul[1]//li[1]/span/span')
-    
+        return self.driver.find_element(
+            by=By.XPATH, value="//header[1]//section[1]//ul[1]//li[1]/span/span"
+        )
+
     def __next_post(self):
-        return self.driver.find_element(by=By.XPATH, value='//*[local-name() = "svg"][@aria-label="Next"]')
-    
+        return self.driver.find_element(
+            by=By.XPATH, value='//*[local-name() = "svg"][@aria-label="Next"]'
+        )
+
     # This may break
     def __content(self):
-        img = self.driver.find_element(by=By.XPATH, value='//article[@role="presentation"][1]//img')
+        img = self.driver.find_element(
+            by=By.XPATH, value='//article[@role="presentation"][1]//img'
+        )
         src = img.get_attribute("src")
-        caption_element = self.driver.find_element(by=By.XPATH, value='//article[@role="presentation"][1]//h1')
+        caption_element = self.driver.find_element(
+            by=By.XPATH, value='//article[@role="presentation"][1]//h1'
+        )
         caption = caption_element.text
-        return {'src':src, 'caption':caption}
+        return {"src": src, "caption": caption}
 
     # This may break
     def getPosts(self):
@@ -31,9 +40,9 @@ class ProfilePage:
             self.driver.execute_script("arguments[0].click();", imgs[0])
             count = 0
             while True:
-                count = count+1
+                count = count + 1
                 post = self.__content()
-                post['id'] = count
+                post["id"] = count
                 posts.append(post)
                 if count < int(no_of_posts):
                     next = self.__next_post()
@@ -42,6 +51,6 @@ class ProfilePage:
                     break
             return posts
         except Exception as error:
-            print("Expected break point: page/profile.py getPosts",error)
+            print("Expected break point: page/profile.py getPosts", error)
             self.driver._quit()
             return "Error in scraping"

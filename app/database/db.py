@@ -4,33 +4,36 @@ from models.club import Club
 from models.user import User
 from models.club_user_relationship import ClubUserRelationship
 
+
 def create_tables():
     with database:
-        database.create_tables([Post,Club,User,ClubUserRelationship])
+        database.create_tables([Post, Club, User, ClubUserRelationship])
 
-def save_posts(posts,username):
-    club = Club.get(Club.username==username)
+
+def save_posts(posts, username):
+    club = Club.get(Club.username == username)
     try:
         if club:
             with database.atomic():
                 for post in posts:
-                    Post.create(src=post['src'],caption=post['caption'],club=club)
+                    Post.create(src=post["src"], caption=post["caption"], club=club)
         else:
             raise Exception("club is not subscribed")
     except Exception as error:
-        raise Exception("error in saving posts") 
+        raise Exception("error in saving posts")
 
-def subscribe_club(club_username,user):
+
+def subscribe_club(club_username, user):
     try:
-        club = Club.get_or_none(Club.username==club_username)
+        club = Club.get_or_none(Club.username == club_username)
         if not club:
             club = Club.create(username=club_username)
-        ClubUserRelationship.create(user=user,club=club)
+        ClubUserRelationship.create(user=user, club=club)
         return "subscribed successfully"
     except Exception as error:
         raise Exception("not subscribed")
 
-def save_user(username,password):
-    User.create(username=username,password=password) 
-    return "Register successfully"
 
+def save_user(username, password):
+    User.create(username=username, password=password)
+    return "Register successfully"
