@@ -1,9 +1,9 @@
 from .auth import authenticate
 from flask import Blueprint, request
-from models.club import Club
-from models.club_user_relationship import ClubUserRelationship
-from bot.insta_bot.scrape_posts import ScrapePost
-from database.db import save_posts, subscribe_club
+from app.models.club import Club
+from app.models.club_user_relationship import ClubUserRelationship
+from app.bot.insta_bot.scrape_posts import ScrapePost
+from app.database.db import save_posts, subscribe_club
 import threading
 
 posts = Blueprint("posts", __name__)

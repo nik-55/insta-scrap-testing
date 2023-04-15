@@ -1,4 +1,4 @@
-from database.config import database
+from app.database.config import database
 from peewee import Model
 
 

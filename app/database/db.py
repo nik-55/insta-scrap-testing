@@ -1,8 +1,8 @@
 from .config import database
-from models.post import Post
-from models.club import Club
-from models.user import User
-from models.club_user_relationship import ClubUserRelationship
+from app.models.post import Post
+from app.models.club import Club
+from app.models.user import User
+from app.models.club_user_relationship import ClubUserRelationship
 
 
 def create_tables():
