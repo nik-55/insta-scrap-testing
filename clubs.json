@@ -1,0 +1,18 @@
+{
+  "clubs": [
+    {
+      "club_actual_name": "MDG Space",
+      "club_short_name": "mdg",
+      "insta_username": "mdgspace",
+      "type": "technical",
+      "description": "MDG SPACE has a bunch of enthusiastic students who aim to explore, ideate and develop products over a vast range of software technologies in the IIT Roorkee campus and beyond. They also actively foster the open source culture."
+    },
+    {
+      "club_actual_name": "Software Development Section",
+      "club_short_name": "sds",
+      "insta_username": "sdslabs",
+      "type": "technical",
+      "description": "Software Development Section Laboratories is a student-run technical group at IIT Roorkee, which aims to encourage the development of technology and innovation in the campus and beyond. They believe in learning and sharing knowledge; collaboration and experimentation; and human interaction that matters the most."
+    }
+  ]
+}
