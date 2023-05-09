@@ -1,10 +1,8 @@
 from .auth import authenticate
 from flask import Blueprint, request
-from app.models.club import Club
-from app.models.club_user_relationship import ClubUserRelationship
-from app.bot.insta_bot.scrape_posts import ScrapePost
-from app.database.db import save_posts, subscribe_club
-import threading
+from server.models.club import Club
+from server.models.club_user_relationship import ClubUserRelationship
+from server.database.db import save_posts, subscribe_club
 
 posts = Blueprint("posts", __name__)
 
@@ -50,12 +48,17 @@ def getClubs():
         return "error"
 
 
-def scrape_posts(time_interval=120):
-    try:
-        query = Club.select()
-        for club in query:
-            posts = ScrapePost().getPosts(club.username)
-            save_posts(posts, club.username)
-    except Exception as error:
-        raise Exception("error in scraping")
-    threading.Timer(time_interval, scrape_posts).start()
+@posts.route("/all_clubs", methods=["GET"])
+def _():
+    clubs = Club.select()
+    club_list = []
+    for club in clubs:
+        club_list.append(club.username)
+    return {"clubs": club_list}
+
+
+@posts.route("/all_clubs_update", methods=["POST"])
+def _i():
+    data = request.get_json()
+    print(data)
+    save_posts(data[0]["posts"], data[0]["username"])

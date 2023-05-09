@@ -17,9 +17,18 @@ class ScrapePost(BotConfig):
         time.sleep(5)
 
     def getPosts(self, username):
-        self.login()
         self._open(f"{self._baseURL}/{username}")
         time.sleep(5)
         profile_page = ProfilePage(self)
         posts = profile_page.getPosts()
         return posts
+
+    def getInfo(self, usernames):
+        self.login()
+        info = []
+        for username in usernames:
+            obj = {"username": username}
+            posts = self.getPosts(username=username)
+            obj["posts"] = posts
+            info.append(obj)
+        return info
