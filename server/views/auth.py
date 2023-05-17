@@ -1,6 +1,6 @@
 from flask import Blueprint, request, session
-from app.database.db import save_user
-from app.models.user import User
+from server.database.db import save_user
+from server.models.user import User
 from functools import wraps
 from hashlib import md5
 

@@ -1,8 +1,8 @@
 from .config import database
-from app.models.post import Post
-from app.models.club import Club
-from app.models.user import User
-from app.models.club_user_relationship import ClubUserRelationship
+from server.models.post import Post
+from server.models.club import Club
+from server.models.user import User
+from server.models.club_user_relationship import ClubUserRelationship
 
 
 def create_tables():
@@ -37,3 +37,13 @@ def subscribe_club(club_username, user):
 def save_user(username, password):
     User.create(username=username, password=password)
     return "Register successfully"
+
+
+def save_posts_from_multiple_clubs(clubs_info):
+    try:
+        with database.atomic():
+            for club in clubs_info:
+                save_posts(club["posts"], club["username"])
+        return "Success"
+    except Exception as error:
+        return "error"
