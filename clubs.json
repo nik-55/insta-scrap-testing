@@ -1,0 +1,347 @@
+{
+  "clubs": [
+    {
+      "club_actual_name": "MDG Space",
+      "club_short_name": "mdg",
+      "insta_username": "mdgspace",
+      "type": "technical",
+      "description": "MDG SPACE has a bunch of enthusiastic students who aim to explore, ideate and develop products over a vast range of software technologies in the IIT Roorkee campus and beyond. They also actively foster the open source culture."
+    },
+    {
+      "club_actual_name": "Software Development Section",
+      "club_short_name": "sds",
+      "insta_username": "sdslabs",
+      "type": "technical",
+      "description": "Software Development Section Laboratories is a student-run technical group at IIT Roorkee, which aims to encourage the development of technology and innovation in the campus and beyond. They believe in learning and sharing knowledge; collaboration and experimentation; and human interaction that matters the most."
+    },
+    {
+      "club_actual_name": "Programming and Algorithms Group",
+      "club_short_name": "pag",
+      "insta_username": "pag_iitr",
+      "type": "technical",
+      "description": "The programming and algorithms group spearheads the competitive programming movement in the campus. This group is held in high regard for converting novice programmers into lucrative and sought after coding machines for companies and varsities alike."
+    },
+    {
+      "club_actual_name": "Data Science Group",
+      "club_short_name": "dsg",
+      "insta_username": "dsgiitr",
+      "type": "technical",
+      "description": "The Data Science Group of IITR aims at developing an interest for and making the campus junta aware of the different areas to explore in data science and machine learning"
+    },
+    {
+      "club_actual_name": "InfoSecIITR",
+      "club_short_name": "infoseciitr",
+      "insta_username": "infoseciitr",
+      "type": "technical",
+      "description": "nfoSecIITR is a group of information security enthusiasts. They regularly participate in competitive hacking competitions and have been consistently ranked among the top 3 CTF teams in India."
+    },
+    {
+      "club_actual_name": "Design Studio",
+      "club_short_name": "ds",
+      "insta_username": "ds_iitr",
+      "type": "technical",
+      "description": "Design Studio is the official design group of IITR. Their on campus contributions include becoming the Design partners for various events and exhibitions of IITR and off campus involves designing websites, apps, logos etc for nice companies."
+    },
+    {
+      "club_actual_name": "IIT Roorkee Motorsports",
+      "club_short_name": "rms",
+      "insta_username": "iitroorkeemotorsports",
+      "type": "technical",
+      "description": "IITRMS manages to fabricate a Formula Style Race Car in a span of 365 days. The car is better every year, with better speed and safety standards."
+    },
+    {
+      "club_actual_name": "ShARE IITR",
+      "club_short_name": "share",
+      "insta_username": "share_iitr",
+      "type": "technical",
+      "description": "ShARE IITR is the official Consulting Club of IIT Roorkee. The group has been instrumental in their vision of building a solid community of efficient problem solvers and strengthening the growing culture of Consulting, Analytics and Product Management."
+    },
+    {
+      "club_actual_name": "Finance Club",
+      "club_short_name": "finclub",
+      "insta_username": "finclubiitr",
+      "type": "technical",
+      "description": "The club was established to spur a culture of finance in the IITR campus. Finance Club not only leads one onto a path of career development in finance but it also promotes self development of its members."
+    },
+    {
+      "club_actual_name": "Artificial Intelligence and Electronics Society",
+      "club_short_name": "aries",
+      "insta_username": "ariesiitr",
+      "type": "technical",
+      "description": "ArIES is the premier electronics group on campus with a fondness for artificial intelligence with projects like AR Applications, ML Models, self driving cars and what not!  They represent the institute at the annual Inter-IIT Tech Meet but their flagship event remains Srishti, which can be described as their niche"
+    },
+    {
+      "club_actual_name": "Enactus IITR",
+      "club_short_name": "enactus",
+      "insta_username": "enactus_iitroorkee",
+      "type": "technical",
+      "description": " This international non-profit organization believes in investing in students who take entrepreneurial action for others, thus creating a better world for us all. They are currently focused on three major projects and have another project in the works. They are Ark, Khoj, Score and Anushruti. "
+    },
+    {
+      "club_actual_name": "Team KNOx",
+      "club_short_name": "knox",
+      "insta_username": "teamknox.iitr",
+      "type": "technical",
+      "description": "Team KNOx is the official off-road racing team of IIT Roorkee. The team designs and fabricates an off-road vehicle and participates in the International level competition BAJA SAE India, Indore - the most prominent engineering level competition held in the country. "
+    },
+    {
+      "club_actual_name": "Physics and Astronomy Club",
+      "club_short_name": "paac",
+      "insta_username": "astro_iitr",
+      "type": "technical",
+      "description": "PaAC have a bunch of geeks that are crazy about physics, maths and astronomy. They are always ready to learn more on these domains. They also do Astrophotography - You can visit their IG handle to have a look at the mind-boggling images of the heavenly bodies out there."
+    },
+    {
+      "club_actual_name": "Models and Robotics Section",
+      "club_short_name": "mars",
+      "insta_username": "mars_iitr",
+      "type": "technical",
+      "description": "Models and Robotics Section can be a one stop destination if you're interested in robotics, artificial intelligence and everything related to it."
+    },
+    {
+      "club_actual_name": "Team Robocon IITR",
+      "club_short_name": "robocon",
+      "insta_username": "roboconiitr",
+      "type": "technical",
+      "description": "This rather innocent group of ambitious students of IITR broke into the limelight a few years back, following their spectacular performance in the Robotic Contests (Robocons) organized by Asia Pacific Broadcasting Union (ABU) and its member countries."
+    },
+    {
+      "club_actual_name": "American Society of Mechanical Engineers IITR Student Section",
+      "club_short_name": "asme",
+      "insta_username": "asmeiitr",
+      "type": "technical",
+      "description": "ASME IIT Roorkee Student Section, is the first and leading student section of ASME in India. Our mission is to promote and enhance our members’ technical competency and professional well-being through quality programs and activities."
+    },
+    {
+      "club_actual_name": "AirSoc",
+      "club_short_name": "airsoc",
+      "insta_username": "airsoc_iitr",
+      "type": "technical",
+      "description": "Airsoc IITR, the aero-modeling group of IITR, are a team of self-motivated students who are currently working on Remote Controlled Planes(UAV) and Drone projects."
+    },
+    {
+      "club_actual_name": "E-Cell",
+      "club_short_name": "ecell",
+      "insta_username": "ecelliitr",
+      "type": "technical",
+      "description": "The Entrepreneurship Cell at IIT-Roorkee is a group of startup enthusiasts that works to cultivate entrepreneurial temper and aims to ignite the minds and nurture the ideas of one of India's most talented students."
+    },
+    {
+      "club_actual_name": "ACM Student Chapter IIT Roorkee",
+      "club_short_name": "acm",
+      "insta_username": "acm_iitroorkee",
+      "type": "technical",
+      "description": "ACM is a group for someone interested in any field of CS. ACM is an open group which conducts discussions and workshops on core CS topics such as OS, Linux and Networks along with interesting projects that are open to all. They have also developed their very own Operating System - KSOS."
+    },
+    {
+      "club_actual_name": "Society of Automotive Engineers",
+      "club_short_name": "sae",
+      "insta_username": "sae_iitr",
+      "type": "technical",
+      "description": "Society of Automotive Engineers (SAE) is a group of enthusiastic and self motivated students who strive to pursue their interests in automobiles. It is a collegiate chapter of SAE India, which is affiliated to SAE International -- a society which sets standards for materials and design in automotive fields. "
+    },
+    {
+      "club_actual_name": "Blockchain Society IIT Roorkee",
+      "club_short_name": "blocsoc",
+      "insta_username": "blocsociitr",
+      "type": "technical",
+      "description": "Blockchain Society or BlocSoc was formed quite recently to foster the culture of Blockchain amongst the IITR Junta. If you are interested in what drives DeFi, NFTs, Metaverse, etc. you’re in the right place. "
+    },
+    {
+      "club_actual_name": "Vision and Language Group",
+      "club_short_name": "vlg",
+      "insta_username": "vlgiitr",
+      "type": "technical",
+      "description": "The Vision and Language Group aims to spearhead the campus Deep Learning culture through various means of disseminating resources on solving such problems."
+    },
+    {
+      "club_actual_name": "Quantum Computing Group",
+      "club_short_name": "qcg",
+      "insta_username": "qcgiitr",
+      "type": "technical",
+      "description": "Quantum Computing (QC) is revolutionizing the world of science and technology by pushing existing boundaries of classical computation. QC has applications in multiple domains like finance, machine learning, hardware, operating systems and the like. "
+    },
+    {
+      "club_actual_name": "Tinkering Lab Students' Body",
+      "club_short_name": "Tinkering Lab",
+      "insta_username": "tinkering_lab_iitr",
+      "type": "technical",
+      "description": "The Tinkering Lab is a place where students can experiment with, learn, develop and conceptualize different scientific ideas. It was established in IITR to create an ambience that fosters research and innovation and encourages a problem-solving attitude. "
+    },
+    {
+      "club_actual_name": "iGEM",
+      "club_short_name": "igem",
+      "insta_username": "igem_iitr",
+      "type": "technical",
+      "description": "iGEM is the largest worldwide synthetic-biologybased competition, conducted every year in Paris, France. iGEM developed out of student projects conducted during MIT’s Independent Activities Period, and has continued to grow with 310 teams (and 5400 members) entering the competition in 2017."
+    },
+    {
+      "club_actual_name": "Audio Section",
+      "club_short_name": "audio_section",
+      "insta_username": "campusbeatsiitr",
+      "type": "cultural",
+      "description": "The Audio Section is a bunch of RJs, DJs , and music producers who create their own songs. The prime mover behind the crazy campus DJ nights and events all around the campus, we at Audio Section, also host radio shows and have a neat list of podcasts, remixes, and original songs sitting on our YouTube channel."
+    },
+    {
+      "club_actual_name": "Choreography and Dance Section",
+      "club_short_name": "choreo",
+      "insta_username": "choreo.iitr",
+      "type": "cultural",
+      "description": " Choreo (in IITR lingo) trains parttime dancer IITians into complete performers. Their shows are generally filled with power-packed performances, with the every dance-form you think of!"
+    },
+    {
+      "club_actual_name": "Cinema Club",
+      "club_short_name": "cinema_club",
+      "insta_username": "cinema_club_iitr",
+      "type": "cultural",
+      "description": "Cinema Club organizes the special screenings of movies. These screenings (which are free of cost, by the way) are met with much fanfare in Convocation Hall bottled down to its full capacity."
+    },
+    {
+      "club_actual_name": "Cinematic Section",
+      "club_short_name": "CineSec",
+      "insta_username": "cineseciitr",
+      "type": "cultural",
+      "description": "CineSec creates short films, music videos and videos for interviews and events around campus.They are film enthusiasts working on all things related to movie making from script writing, editing, cinematography and direction to production "
+    },
+    {
+      "club_actual_name": "Culinary Club",
+      "club_short_name": "culinary_club",
+      "insta_username": "culinaryclubiitr",
+      "type": "cultural",
+      "description": "Culinary Club is a community of enthusiastic people who love to cook and bring regional cuisines to the IITR junta.Their student run cafes on the weekends are a must visit and usually a hit amongst gastronomes. "
+    },
+    {
+      "club_actual_name": "Debating Society",
+      "club_short_name": "DebSoc",
+      "insta_username": "debsociitr",
+      "type": "cultural",
+      "description": "The Debating Society organises Asian and British Parlimentary style debates, discussing and formulating arguments on motions like geopolitics, economics, feminism and ethics."
+    },
+    {
+      "club_actual_name": "Dramatics Section",
+      "club_short_name": "drams",
+      "insta_username": "dramsiitr",
+      "type": "cultural",
+      "description": "The Dramatics Section produces stage and street plays throughout the annual year. It is community of people who have the flair for dramatics, acting and story telling "
+    },
+    {
+      "club_actual_name": "Fine Arts",
+      "club_short_name": "fine_arts",
+      "insta_username": "fineartsiitr",
+      "type": "cultural",
+      "description": "Fine Arts organises workshops and contests related to different art forms.They host an annual art exhibition 'Darpan' showcasing their finest work."
+    },
+    {
+      "club_actual_name": "IITR Model United Nations",
+      "club_short_name": "IRMUN",
+      "insta_username": "ir_mun.s",
+      "type": "cultural",
+      "description": "IRMUN provides an academic simulation of the UN where students play the role of delegates from different countries and attempt to solve real-world issues. "
+    },
+    {
+      "club_actual_name": "Music Section",
+      "club_short_name": "music_section",
+      "insta_username": "musicsectioniitr",
+      "type": "cultural",
+      "description": "Music section is a group of musicians and artists of backgrounds ranging from Indian classical to western hard rock. They host events like Dhun, Prelude and Swaranjali to showcase thier work."
+    },
+    {
+      "club_actual_name": "OnRec",
+      "club_short_name": "OnRec",
+      "insta_username": "iitr_onrec",
+      "type": "cultural",
+      "description": "OnRec is a group of storytrelling enthusiasts. They record podcasts and videos such as the class stories of their respective graduating year, first impressions and interviews."
+    },
+    {
+      "club_actual_name": "Photography Section",
+      "club_short_name": "photography_section",
+      "insta_username": "photod_iitr",
+      "type": "cultural",
+      "description": "Photography section is all about photography and videography. They host workshops and their annual showcase event 'Drishya'."
+    },
+    {
+      "club_actual_name": "Quizzing Section",
+      "club_short_name": "quiz_section",
+      "insta_username": "quizzingiitr",
+      "type": "cultural",
+      "description": "It is an open group that hosts general and themed quizzes like buisness, science, mythology and fiction. They organise the Freshman quiz at the beginning of an academic year and send contingents to prestigious quizzes accross India."
+    },
+    {
+      "club_actual_name": "Society for Promotion of Indian Classical Music and Culture amongst Youth",
+      "club_short_name": "Spic Macay",
+      "insta_username": "",
+      "type": "cultural",
+      "description": "Spic Macay is an international organisation and its chapter in IIT Roorkee organizes a plethora of cultural events throughout the year."
+    },
+    {
+      "club_actual_name": "Improv Section",
+      "club_short_name": "standup club",
+      "insta_username": "comedicarts.iitr",
+      "type": "cultural",
+      "description": "The improv section in an attempt to create a culture of standup comdey organises open mics and standup shows."
+    },
+    {
+      "club_actual_name": "Committee for Campus Fauna/Collaboration for Animal Rescue and Shelter",
+      "club_short_name": "CCF/CARES",
+      "insta_username": "iitroorkee_cares",
+      "type": "social",
+      "description": "CCF is an organization run largely by students and professors with the aim of caring for animals in the R-Land."
+    },
+    {
+      "club_actual_name": "Child Rights and You",
+      "club_short_name": "CRY",
+      "insta_username": "iitr_childrightschapter",
+      "type": "social",
+      "description": "They conduct campaigns, surveys and donation drives to spread awareness about matters like RTE, menstrual hygiene, mental health and Child Sexual Abuse."
+    },
+    {
+      "club_actual_name": "Eco group",
+      "club_short_name": "eco_group",
+      "insta_username": "eco_iitr",
+      "type": "social",
+      "description": "Eco group is currently under the umbrella of The INstitute green committe and aims to incorporate new ideas and technologies for a sustainable environment in IIT Roorkee campus."  
+    },
+    {
+      "club_actual_name": "Outreach cell",
+      "club_short_name": "outreach",
+      "insta_username": "outreachiitr",
+      "type": "social",
+      "description": "Outreach cell is a student-led community under the aegis of Dean of Students'Welfare, IIT Roorkee, to connect the outside world with the culture of IIT Roorkee."
+    },
+    {
+      "club_actual_name": "Queer And Gender Advancement Alliance Roorkee",
+      "club_short_name": "Qagaar",
+      "insta_username": "qagaariitr",
+      "type": "social",
+      "description": "Qagaar aims to create foster a healthy supportive atmosphere on campus. Their current focus is to help people learn and unlearn things they've been conditioned to think about the LGBTQ+ community"
+    },
+    {
+      "club_actual_name": "Unnat Bharat Abhiyan",
+      "club_short_name": "UBA",
+      "insta_username": "uba.iitr",
+      "type": "social",
+      "description": "UBA, an MoE flagship programme, is an initiative aimed at using the knowledge base of institutes of higher education to find solutions to ground-level problems in local communities.They have adopted 5 village clusters and organize regular visits, where they identify existing developmental challenges in these villages, hold brainstorming sessions to find solutions, and implement these solutions."
+    },
+    {
+      "club_actual_name": "Geek Gazette",
+      "club_short_name": "GG",
+      "insta_username": "geek_gazette",
+      "type": "magazine",
+      "description": "Geek Gazette comes out with a self-financed semesterly issue which opines about topics around the world and internet."
+    },
+    {
+      "club_actual_name": "Kshitij",
+      "club_short_name": "kshitij",
+      "insta_username": "kshitij_iitr",
+      "type": "magazine",
+      "description": "It is the literary society of IITR.They publish stories and poems written by students and they also host slam poetry events."
+    },
+    {
+      "club_actual_name": "WatchOut!",
+      "club_short_name": "WO",
+      "insta_username": "watchoutiitr",
+      "type": "magazine",
+      "description": "Watch Out is the official student's news and media body of IITR.They cover the happenings and ongoings of life at IIT Roorkee along with the issues that surround the administration, placements, academics, cultural council and bhawans. "
+    }
+  ]
+}
