@@ -11,13 +11,17 @@ bot = ScrapePost()
 
 
 def run_bot_periodically(time_interval):
+    # GET request that returns the iitr club basic information (containing instagram username as well).
     usernames = requests.get("http://localhost:5000/all_clubs")
     usernames = usernames.json()
     usernames = usernames["clubs"]
+    # Scrape the latest post if any from instagram
     info = bot.getInfo(usernames=usernames)
-    print(info)
-    requests.post("http://localhost:5000/all_clubs_update", data=info)
+    # Make a POST request with the latest post in the body
+    requests.post("http://localhost:5000/all_clubs_update", json={"clubs_info": info})
+    # Pause the function for 30 minutes
     sleep(time_interval)
+    # Again call the same function
     run_bot_periodically(time_interval)
 
 

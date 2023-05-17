@@ -37,3 +37,13 @@ def subscribe_club(club_username, user):
 def save_user(username, password):
     User.create(username=username, password=password)
     return "Register successfully"
+
+
+def save_posts_from_multiple_clubs(clubs_info):
+    try:
+        with database.atomic():
+            for club in clubs_info:
+                save_posts(club["posts"], club["username"])
+        return "Success"
+    except Exception as error:
+        return "error"

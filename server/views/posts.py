@@ -2,7 +2,7 @@ from .auth import authenticate
 from flask import Blueprint, request
 from server.models.club import Club
 from server.models.club_user_relationship import ClubUserRelationship
-from server.database.db import save_posts, subscribe_club
+from server.database.db import save_posts_from_multiple_clubs, subscribe_club
 
 posts = Blueprint("posts", __name__)
 
@@ -60,5 +60,5 @@ def _():
 @posts.route("/all_clubs_update", methods=["POST"])
 def _i():
     data = request.get_json()
-    print(data)
-    save_posts(data[0]["posts"], data[0]["username"])
+    txt = save_posts_from_multiple_clubs(data["clubs_info"])
+    return txt
