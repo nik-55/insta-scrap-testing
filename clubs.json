@@ -196,5 +196,152 @@
       "type": "cultural",
       "description": "Cinema Club organizes the special screenings of movies. These screenings (which are free of cost, by the way) are met with much fanfare in Convocation Hall bottled down to its full capacity."
     },
+    {
+      "club_actual_name": "Cinematic Section",
+      "club_short_name": "CineSec",
+      "insta_username": "cineseciitr",
+      "type": "cultural",
+      "description": "CineSec creates short films, music videos and videos for interviews and events around campus.They are film enthusiasts working on all things related to movie making from script writing, editing, cinematography and direction to production "
+    },
+    {
+      "club_actual_name": "Culinary Club",
+      "club_short_name": "culinary_club",
+      "insta_username": "culinaryclubiitr",
+      "type": "cultural",
+      "description": "Culinary Club is a community of enthusiastic people who love to cook and bring regional cuisines to the IITR junta.Their student run cafes on the weekends are a must visit and usually a hit amongst gastronomes. "
+    },
+    {
+      "club_actual_name": "Debating Society",
+      "club_short_name": "DebSoc",
+      "insta_username": "debsociitr",
+      "type": "cultural",
+      "description": "The Debating Society organises Asian and British Parlimentary style debates, discussing and formulating arguments on motions like geopolitics, economics, feminism and ethics."
+    },
+    {
+      "club_actual_name": "Dramatics Section",
+      "club_short_name": "drams",
+      "insta_username": "dramsiitr",
+      "type": "cultural",
+      "description": "The Dramatics Section produces stage and street plays throughout the annual year. It is community of people who have the flair for dramatics, acting and story telling "
+    },
+    {
+      "club_actual_name": "Fine Arts",
+      "club_short_name": "fine_arts",
+      "insta_username": "fineartsiitr",
+      "type": "cultural",
+      "description": "Fine Arts organises workshops and contests related to different art forms.They host an annual art exhibition 'Darpan' showcasing their finest work."
+    },
+    {
+      "club_actual_name": "IITR Model United Nations",
+      "club_short_name": "IRMUN",
+      "insta_username": "ir_mun.s",
+      "type": "cultural",
+      "description": "IRMUN provides an academic simulation of the UN where students play the role of delegates from different countries and attempt to solve real-world issues. "
+    },
+    {
+      "club_actual_name": "Music Section",
+      "club_short_name": "music_section",
+      "insta_username": "musicsectioniitr",
+      "type": "cultural",
+      "description": "Music section is a group of musicians and artists of backgrounds ranging from Indian classical to western hard rock. They host events like Dhun, Prelude and Swaranjali to showcase thier work."
+    },
+    {
+      "club_actual_name": "OnRec",
+      "club_short_name": "OnRec",
+      "insta_username": "iitr_onrec",
+      "type": "cultural",
+      "description": "OnRec is a group of storytrelling enthusiasts. They record podcasts and videos such as the class stories of their respective graduating year, first impressions and interviews."
+    },
+    {
+      "club_actual_name": "Photography Section",
+      "club_short_name": "photography_section",
+      "insta_username": "photod_iitr",
+      "type": "cultural",
+      "description": "Photography section is all about photography and videography. They host workshops and their annual showcase event 'Drishya'."
+    },
+    {
+      "club_actual_name": "Quizzing Section",
+      "club_short_name": "quiz_section",
+      "insta_username": "quizzingiitr",
+      "type": "cultural",
+      "description": "It is an open group that hosts general and themed quizzes like buisness, science, mythology and fiction. They organise the Freshman quiz at the beginning of an academic year and send contingents to prestigious quizzes accross India."
+    },
+    {
+      "club_actual_name": "Society for Promotion of Indian Classical Music and Culture amongst Youth",
+      "club_short_name": "Spic Macay",
+      "insta_username": "",
+      "type": "cultural",
+      "description": "Spic Macay is an international organisation and its chapter in IIT Roorkee organizes a plethora of cultural events throughout the year."
+    },
+    {
+      "club_actual_name": "Improv Section",
+      "club_short_name": "standup club",
+      "insta_username": "comedicarts.iitr",
+      "type": "cultural",
+      "description": "The improv section in an attempt to create a culture of standup comdey organises open mics and standup shows."
+    },
+    {
+      "club_actual_name": "Committee for Campus Fauna/Collaboration for Animal Rescue and Shelter",
+      "club_short_name": "CCF/CARES",
+      "insta_username": "iitroorkee_cares",
+      "type": "social",
+      "description": "CCF is an organization run largely by students and professors with the aim of caring for animals in the R-Land."
+    },
+    {
+      "club_actual_name": "Child Rights and You",
+      "club_short_name": "CRY",
+      "insta_username": "iitr_childrightschapter",
+      "type": "social",
+      "description": "They conduct campaigns, surveys and donation drives to spread awareness about matters like RTE, menstrual hygiene, mental health and Child Sexual Abuse."
+    },
+    {
+      "club_actual_name": "Eco group",
+      "club_short_name": "eco_group",
+      "insta_username": "eco_iitr",
+      "type": "social",
+      "description": "Eco group is currently under the umbrella of The INstitute green committe and aims to incorporate new ideas and technologies for a sustainable environment in IIT Roorkee campus."  
+    },
+    {
+      "club_actual_name": "Outreach cell",
+      "club_short_name": "outreach",
+      "insta_username": "outreachiitr",
+      "type": "social",
+      "description": "Outreach cell is a student-led community under the aegis of Dean of Students'Welfare, IIT Roorkee, to connect the outside world with the culture of IIT Roorkee."
+    },
+    {
+      "club_actual_name": "Queer And Gender Advancement Alliance Roorkee",
+      "club_short_name": "Qagaar",
+      "insta_username": "qagaariitr",
+      "type": "social",
+      "description": "Qagaar aims to create foster a healthy supportive atmosphere on campus. Their current focus is to help people learn and unlearn things they've been conditioned to think about the LGBTQ+ community"
+    },
+    {
+      "club_actual_name": "Unnat Bharat Abhiyan",
+      "club_short_name": "UBA",
+      "insta_username": "uba.iitr",
+      "type": "social",
+      "description": "UBA, an MoE flagship programme, is an initiative aimed at using the knowledge base of institutes of higher education to find solutions to ground-level problems in local communities.They have adopted 5 village clusters and organize regular visits, where they identify existing developmental challenges in these villages, hold brainstorming sessions to find solutions, and implement these solutions."
+    },
+    {
+      "club_actual_name": "Geek Gazette",
+      "club_short_name": "GG",
+      "insta_username": "geek_gazette",
+      "type": "magazine",
+      "description": "Geek Gazette comes out with a self-financed semesterly issue which opines about topics around the world and internet."
+    },
+    {
+      "club_actual_name": "Kshitij",
+      "club_short_name": "kshitij",
+      "insta_username": "kshitij_iitr",
+      "type": "magazine",
+      "description": "It is the literary society of IITR.They publish stories and poems written by students and they also host slam poetry events."
+    },
+    {
+      "club_actual_name": "WatchOut!",
+      "club_short_name": "WO",
+      "insta_username": "watchoutiitr",
+      "type": "magazine",
+      "description": "Watch Out is the official student's news and media body of IITR.They cover the happenings and ongoings of life at IIT Roorkee along with the issues that surround the administration, placements, academics, cultural council and bhawans. "
+    }
   ]
 }
